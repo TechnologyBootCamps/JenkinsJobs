@@ -1,0 +1,58 @@
+Started by user [8mha:////4Dta+V6pPCd2bQXU7xodkoAapf5AUbFr+iWvs1gFwt+2AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgZu/dLi1CL9xJTczDwAg9OS0cAAAAA=[0mMohanraj
+Running in Durability level: MAX_SURVIVABILITY
+[8mha:////4Io3E4We+CAl7jv989eAwmwVx2sNXoyXfn9MGqEG3DLoAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4LrHOWWpFasz1BlZLNtwL76kzyfYqMPVnHVNApAom7GRAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] timestamps
+[8mha:////4HaYiWs6JAqMt1wrMv1DY8AmvYns+FZKxC+aXqbG5PUXAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4HafEVhaQHlLYoj0MGjEhPNF71xMtXv1w2TpkvE4wGPTAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] node
+[2020-08-17T14:29:21.857Z] Running on [8mha:////4FxTFt9xxGg0KKd84qY8pyrCux2heOLDMVrEh/+szOxMAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZh/eT83ILSktQifY3cxGIgrakPAHib2iPIAAAA[0mJenkins in /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/Docker-EntryPoint-Sample/CI_BuildImage
+[8mha:////4E77uw0ArmfRAQRzhwk7MP/vxfU47zsF6e6gTYkn5GO3AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] {
+[8mha:////4C39pb1chSuuPUCv8yZnBNfXPmvcjuYKvKvyujcYkOavAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gwExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jcChmMxwAAAAA==[0m[Pipeline] stage
+[8mha:////4EqThr3O3rh5Hz5CmHwLL2K+LrA/LPqQ8ORnYRqiFdIpAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0BAkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfpX/cvwAAAAA==[0m[Pipeline] { (Git Checkout)
+[8mha:////4ACUspBkBN3yU+m/pUTcM2xV7M1ZJyKcW/zkiDnuAkNDAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaoyVLaHxBMgiwpL/WWDdrTyRV/MOEjexcpJJ5k3zXm9Y5wQnSpZ7g73DrB2PYbR18YlSfws0cU9XrgkzBcOlmSR15rygpGJgCWtgJWBjUAfKDm2BrfDqodqg0LaXkup3FNC4boAnMFHNRaXyhTnB7j52mfDn+SuAORZg+9pD/AAeoCAqvAAAAA==[0m[Pipeline] checkout
+[2020-08-17T14:29:21.951Z] No credentials specified
+[2020-08-17T14:29:21.952Z]  > git rev-parse --is-inside-work-tree # timeout=10
+[2020-08-17T14:29:22.036Z] Fetching changes from the remote Git repository
+[2020-08-17T14:29:22.037Z]  > git config remote.origin.url https://github.com/TechnologyBootCamps/functional-assurance # timeout=10
+[2020-08-17T14:29:22.066Z] Fetching upstream changes from https://github.com/TechnologyBootCamps/functional-assurance
+[2020-08-17T14:29:22.066Z]  > git --version # timeout=10
+[2020-08-17T14:29:22.100Z]  > git --version # 'git version 2.21.1 (Apple Git-122.3)'
+[2020-08-17T14:29:22.100Z]  > git fetch --tags --force --progress -- https://github.com/TechnologyBootCamps/functional-assurance +refs/heads/*:refs/remotes/origin/* # timeout=10
+[2020-08-17T14:29:24.411Z]  > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+[2020-08-17T14:29:24.454Z]  > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+[2020-08-17T14:29:24.513Z] Checking out Revision 6feb79011bc4c3a8904be06a48a45e49c42b09b0 (refs/remotes/origin/master)
+[2020-08-17T14:29:24.513Z]  > git config core.sparsecheckout # timeout=10
+[2020-08-17T14:29:24.528Z]  > git checkout -f 6feb79011bc4c3a8904be06a48a45e49c42b09b0 # timeout=10
+[2020-08-17T14:29:24.629Z] Commit message: "Update ShopAddressPage.java"
+[2020-08-17T14:29:24.631Z]  > git rev-list --no-walk e5d00a06df052e55d51889478dc59a1343ee1f79 # timeout=10
+[8mha:////4GwbAba2rFIpeW1TSTDUrxhJg13HrUI6dP/hzHTzdYpIAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKBDglR0VppeIFJjHFi3QX7QlLxIr7GH4iIRMVWO9PM641lijhydKqx1HpKlVdd6N301MCxvQYeVMMXVTElDlaVdii5tqcZSxaLeVmOhcbKUhU4eXKCtW7MwxTBkCvOEid30Mh9fccTmZ7KYqJ8YYzY3Po6Mf06fwMYu06Q77aCbP8Brmfz270AAAA=[0m[Pipeline] }
+[8mha:////4DQbg+BLNt3dXVFhaXqqSjaw0OOw64T94hlkPVk0Gl+gAAAAox+LCAAAAAAAAP9tjTESgjAQRT84FraWHiIMlYVjZZuh8QQRYgxkdjFZhMoTeTXvICMzVv7qv9e81xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0gL0tBtv8Aj1Msdr0AAAA=[0m[Pipeline] // stage
+[8mha:////4OuUKdneJzm5dF327EOqRbg9lRPkwi3XW0ioHv2Syu5TAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjKGgQFa3lhheY2Bgn1l2wLyQVL+Jr/IFAJCq22llpNc8XlDnBgZKXjcM2YK6D7GLvpyYHSu0l0iAbOsuaMFN0UrtBk3XHGTWxgzmigIWCpcM6Ug7oGVaqMXdTRYO+OnGatr2CItgbPECoycwm8RfGBOtrbzPhz/NXAGPHIHYMxWb7OZZvfPyORMEAAAA=[0m[Pipeline] stage
+[8mha:////4AF6HscB7S3ghjX1mSYOxZbWiSMpoowAXx7rljmaC3BXAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUwIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLdfrbD/Cw+y7kUycIAAAA=[0m[Pipeline] { (Build Image)
+[8mha:////4KVQbRpxsSBNloPnp5Kss5dpQ4gKcYhkEkz4YPLrBceUAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUCDbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxAbNWnxXCAAAA[0m[Pipeline] dir
+[2020-08-17T14:29:25.375Z] Running in /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/Docker-EntryPoint-Sample/CI_BuildImage/dockersample/entrypoint_cmd
+[8mha:////4L0vlxs6xGIIIbuw0BiY5HefK6tqjZ9NKlDuSnE90UhSAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUSDAhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD5WQ+PfCAAAA[0m[Pipeline] {
+[8mha:////4JVrd1jM59YO3dQnhfDvV1Q12WaSXXI1b17QvYWTRWQMAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiCmgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHN7LjSKW+AAAA[0m[Pipeline] sh
+[2020-08-17T14:29:25.963Z] + pwd
+[2020-08-17T14:29:25.963Z] /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/Docker-EntryPoint-Sample/CI_BuildImage/dockersample/entrypoint_cmd
+[2020-08-17T14:29:25.963Z] + docker build -t myentrypointtest .
+[2020-08-17T14:29:26.288Z] Sending build context to Docker daemon  2.048kB
+[2020-08-17T14:29:26.288Z] Step 1/3 : FROM maven:3.6.0-jdk-8
+[2020-08-17T14:29:26.288Z]  ---> 938cf03ad8e9
+[2020-08-17T14:29:26.288Z] Step 2/3 : ENTRYPOINT ["/bin/ping"]
+[2020-08-17T14:29:26.288Z]  ---> Using cache
+[2020-08-17T14:29:26.288Z]  ---> b2bb50a43f37
+[2020-08-17T14:29:26.288Z] Step 3/3 : CMD ["localhost"]
+[2020-08-17T14:29:26.288Z]  ---> Using cache
+[2020-08-17T14:29:26.288Z]  ---> b2cf31f619c7
+[2020-08-17T14:29:26.288Z] Successfully built b2cf31f619c7
+[2020-08-17T14:29:26.288Z] Successfully tagged myentrypointtest:latest
+[8mha:////4GRAosP4HvMVMgdCpdv18eubGBV1/5xA1gcBMNMuWEyIAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiCkSBqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQGOY4V7vgAAAA==[0m[Pipeline] }
+[8mha:////4HfZUNu7GS1pHbUcSYV9Cri0/YzQyLNF8lTmhXC40FA5AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiJAokRJXWcsMLTGyME+vO2A5JxYv4Gn8gEImKLVY728zzBcsU4cjRYmuoc5Qah8H3dlo4cOwungds+YwNU2JvUJpBsjb1jJKzgTlFCQsBK0ON5+TIZliLVt1V5RXZ6pTj9B0ElE7f4AGFmMxZxfyFMcLm2uvE9PP8FcAYQoZyu//U7g3N4dT9vgAAAA==[0m[Pipeline] // dir
+[8mha:////4DM+LEpRndfqulXcOWvtw1Ceb4kU4LIecZ+S93PyZUBCAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiRIUQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7N8un7Ki+AAAA[0m[Pipeline] }
+[8mha:////4LLe98V9k2nJN+Bi4W6GVnJq/pVufoMBtgA6tg0okd5GAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICaRFVWisNLzCxMU6sO2M7JBUv4mv8AYtIVGyx2tlmXm9YxwAnDgZ7TYOl2Fn0bjR54cRhuDqesOcLdkyRncZWTy0r3SzYctKwpChhJWCjqXMcLZkEW9HLh6ycJFOdU8jfUUBp1R2eUIhsTjKkL8wBdrdRRaaf568AZu8TlPU+16H+AAjcDMm+AAAA[0m[Pipeline] // stage
+[8mha:////4KzqyOCBD+c+kYLmVXFluyvgZfut8Sn3wcfH0uSGGqC+AAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRFDSIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfLcVZPsPtxG/h70AAAA=[0m[Pipeline] }
+[8mha:////4MU9fXqqAKjfowdWxCTqtH+/Tj0kI8s8NRwJxDvJI+cuAAAAox+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6IkJE7GybVh8Qsq1Fpo3sP2IUx+kb/mP0gkcfJO95zlvN5Yp4gjR6daS52nVHvVh8HNT40cu2vgUbV8UTVT4mBVZceKG3tasGKxWJblWGlsLNWBkycn2OrWPEwRDLniLHF2B43cN3c8kem5LCbKF6aI3W1oEtOv8zeAqe8FeVkKsv0H3ToWWb0AAAA=[0m[Pipeline] // node
+[8mha:////4G1l+UBV0rl6Yi9j8DbMS366IOyRJQXTm3SNYPygUYdHAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKRgA5R0VppeIFJjHFi3QX7QlLxIr7GH4iIRMVWO9PM641lijhydKqx1HpKlVdd6N301MCxvQYeVMMXVTElDlaVdii5tqcZSxaLeVmOhcbKUhU4eXKCtW7MwxTBkCvOEid30Mh9fccTmZ7KYqJ8YYzY3Po6Mf06fwMYu06Qb3eCbP8B+yNxE70AAAA=[0m[Pipeline] }
+[8mha:////4BIp7G8nj/5ByFJ6klu/xSZY3q4i8vscFnKOU0rN5ZC6AAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKRgA5R0VppeIFJjHFi3QX7QlLxIr7GH4iIRMVWO9PM641lijhydKqx1HpKlVdd6N301MCxvQYeVMMXVTElDlaVdii5tqcZSxaLeVmOhcbKUhU4eXKCtW7MwxTBkCvOEid30Mh9fccTmZ7KYqJ8YYzY3Po6Mf06fwMYu06Qb/eCbPcBSGo1P70AAAA=[0m[Pipeline] // timestamps
+[8mha:////4POgEcWDHeVBgVKKlj8WKcfK+KECtTTjUCF6Oo3+d85SAAAAox+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6IkJE7GybVh8Qsq1Fpo3sP2IUx+kb/mP0gkcfJO95zlvN5Yp4gjR6daS52nVHvVh8HNT40cu2vgUbV8UTVT4mBVZceKG3tasGKxWJblWGlsLNWBkycn2OrWPEwRDLniLHF2B43cN3c8kem5LCbKF6aI3W1oEtOv8zeAqe8FebkXZOUHbnNSdb0AAAA=[0m[Pipeline] End of Pipeline
+Finished: SUCCESS

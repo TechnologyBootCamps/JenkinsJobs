@@ -1,0 +1,12 @@
+commit 61d2af45fa7cc8d709cf8d2539fc5823a0dc160d
+tree 719216443fab12919cde3dc8eedebf654fa676f4
+parent 15592c90b4af1a3ed3de214023f4a9ec764d386d
+author Mohanraj Mathavan <mohanraj.mathavan@cognizant.com> 2020-08-14 00:42:23 +0530
+committer Mohanraj Mathavan <mohanraj.mathavan@cognizant.com> 2020-08-14 00:42:23 +0530
+
+    Fixed simulation error
+
+
+:100644 100644 40c9b7a10a995c51831a1eca4d6cf758db5db017 04ee7c437dc5790301f16bf34cea069f4fe5eddf M	README.md
+:100644 100644 3b8d666992410d6fcd2543e32f60b8b408cf0753 61e86c29c67a2920a35fbd3a91a76145eb3ccdeb M	pom.xml
+:100644 100644 809cc63b5ce2877a109c94986c9838576b6b968c 3a8d9785d9d776fe9582050d4aa9537e671a405b M	src/test/java/framework/WebDriverFactory.java

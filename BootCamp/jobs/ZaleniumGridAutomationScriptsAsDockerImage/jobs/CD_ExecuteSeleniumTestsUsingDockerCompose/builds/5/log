@@ -1,0 +1,197 @@
+Started by user [8mha:////4Dta+V6pPCd2bQXU7xodkoAapf5AUbFr+iWvs1gFwt+2AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgZu/dLi1CL9xJTczDwAg9OS0cAAAAA=[0mMohanraj
+Running in Durability level: MAX_SURVIVABILITY
+[8mha:////4Io3E4We+CAl7jv989eAwmwVx2sNXoyXfn9MGqEG3DLoAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4LrHOWWpFasz1BlZLNtwL76kzyfYqMPVnHVNApAom7GRAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] timestamps
+[8mha:////4HaYiWs6JAqMt1wrMv1DY8AmvYns+FZKxC+aXqbG5PUXAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4HafEVhaQHlLYoj0MGjEhPNF71xMtXv1w2TpkvE4wGPTAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] node
+[2020-08-17T12:06:18.903Z] Running on [8mha:////4FxTFt9xxGg0KKd84qY8pyrCux2heOLDMVrEh/+szOxMAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZh/eT83ILSktQifY3cxGIgrakPAHib2iPIAAAA[0mJenkins in /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/AutomationScriptsAsDockerImage/CD_ExecuteSeleniumTests
+[8mha:////4E77uw0ArmfRAQRzhwk7MP/vxfU47zsF6e6gTYkn5GO3AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] {
+[8mha:////4C39pb1chSuuPUCv8yZnBNfXPmvcjuYKvKvyujcYkOavAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gwExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jcChmMxwAAAAA==[0m[Pipeline] stage
+[8mha:////4EqThr3O3rh5Hz5CmHwLL2K+LrA/LPqQ8ORnYRqiFdIpAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0BAkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfpX/cvwAAAAA==[0m[Pipeline] { (Exeucte Image)
+[8mha:////4KfOUtyKtM8j4iRWpQYhXCgHRuXJ0o7yTK3U9lY46ZTNAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0BSEm1igLJwhJCGmj/9skpZ04EVfjDgQqMWHJkm3Jes8X1CnCkaLjrcXOY9Ke92F0JfGJYncNNPGWLlwTJgqWSztJMva0VEnZwiJWwUrA2qIOlDy6DBvRqrtqgkLXnHMs20FA5c0AD2CikLOK+VvmCNvbaBLhj/MXAHOfge2K959f/QbB16AVwAAAAA==[0m[Pipeline] dir
+[2020-08-17T12:06:19.046Z] Running in /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/AutomationScriptsAsDockerImage/CD_ExecuteSeleniumTests/dockersample/java-docker-app
+[8mha:////4IRalkqJ8TlpHP7v+ArL4t4O2MIXefKA1+ApdtlUwMZtAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQDJUJUtJYbXmBiY5xYd8G+kFS8iK/xBwKRqNhqZ6XVPF9Q5gQHSl42DtuAuQ6yi72fmhwotZdIg2zoLGvCTNFJ7QZN1h1n1MQO5ogCFgqWDutIOaBnWKnG3E0VDfrqxGna9gqKYG/wAKEmM5vEXxgTrK+9zYQ/z18BjB2D2DEU283nWL4Bsam+msEAAAA=[0m[Pipeline] {
+[8mha:////4JcnJbKf9/MQqZ09Dl1P3fA/6W5L7LzS/K4WCLTWAcd+AAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJCakRFa6XhBSYxxo5159gOTsWL+Bp/IBCJii1WO9vM8wXrGODIQaNV1BuKrUHvRj0vzBz6q+OMli/YMkV2ChuVG+7UacGGk4IlRQkrARtFreNoSCfYCivvsnKSdHVOYf4OAkrTDfCAQszmJEP6whRgdxu7yPTz/BXA5BOU9f5TtX8D0loxuL4AAAA=[0m[Pipeline] sh
+[2020-08-17T12:06:19.450Z] + docker run -t -v /Users/mohanrajmathavan/.m2:/root/.m2 selenium-test
+[2020-08-17T12:06:24.082Z] [[1;34mINFO[m] Scanning for projects...
+[2020-08-17T12:06:24.407Z] [[1;34mINFO[m] 
+[2020-08-17T12:06:24.407Z] [[1;34mINFO[m] [1m---------< [0;36morg.example:awsworkshop_test_functional_assurance[0;1m >----------[m
+[2020-08-17T12:06:24.407Z] [[1;34mINFO[m] [1mBuilding awsworkshop_test_functional_assurance 1.0-SNAPSHOT[m
+[2020-08-17T12:06:24.407Z] [[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[2020-08-17T12:06:31.629Z] [[1;34mINFO[m] 
+[2020-08-17T12:06:31.629Z] [[1;34mINFO[m] [1m--- [0;32mmaven-clean-plugin:2.5:clean[m [1m(default-clean)[m @ [36mawsworkshop_test_functional_assurance[0;1m ---[m
+[2020-08-17T12:06:31.953Z] [[1;34mINFO[m] 
+[2020-08-17T12:06:31.953Z] [[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:2.6:resources[m [1m(default-resources)[m @ [36mawsworkshop_test_functional_assurance[0;1m ---[m
+[2020-08-17T12:06:34.183Z] [[1;33mWARNING[m] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[2020-08-17T12:06:34.183Z] [[1;34mINFO[m] skip non existing resourceDirectory /functional-assurance/src/main/resources
+[2020-08-17T12:06:34.183Z] [[1;34mINFO[m] 
+[2020-08-17T12:06:34.183Z] [[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.1:compile[m [1m(default-compile)[m @ [36mawsworkshop_test_functional_assurance[0;1m ---[m
+[2020-08-17T12:06:37.115Z] [[1;34mINFO[m] No sources to compile
+[2020-08-17T12:06:37.116Z] [[1;34mINFO[m] 
+[2020-08-17T12:06:37.116Z] [[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:2.6:testResources[m [1m(default-testResources)[m @ [36mawsworkshop_test_functional_assurance[0;1m ---[m
+[2020-08-17T12:06:37.116Z] [[1;33mWARNING[m] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[2020-08-17T12:06:37.116Z] [[1;34mINFO[m] Copying 11 resources
+[2020-08-17T12:06:37.116Z] [[1;34mINFO[m] 
+[2020-08-17T12:06:37.116Z] [[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.1:testCompile[m [1m(default-testCompile)[m @ [36mawsworkshop_test_functional_assurance[0;1m ---[m
+[2020-08-17T12:06:37.441Z] [[1;34mINFO[m] Changes detected - recompiling the module!
+[2020-08-17T12:06:37.441Z] [[1;34mINFO[m] Compiling 12 source files to /functional-assurance/target/test-classes
+[2020-08-17T12:06:42.147Z] [[1;34mINFO[m] 
+[2020-08-17T12:06:42.147Z] [[1;34mINFO[m] [1m--- [0;32mmaven-surefire-plugin:3.0.0-M4:test[m [1m(default-test)[m @ [36mawsworkshop_test_functional_assurance[0;1m ---[m
+[2020-08-17T12:06:44.378Z] [[1;34mINFO[m] 
+[2020-08-17T12:06:44.378Z] [[1;34mINFO[m] -------------------------------------------------------
+[2020-08-17T12:06:44.378Z] [[1;34mINFO[m]  T E S T S
+[2020-08-17T12:06:44.378Z] [[1;34mINFO[m] -------------------------------------------------------
+[2020-08-17T12:06:45.508Z] [[1;34mINFO[m] Running runner.[1mTestsRunner[m
+[2020-08-17T12:06:46.641Z] 12:06:46  INFO: runner.TestsRunner - ########### INSIDE BEFORE CLASS ###########
+[2020-08-17T12:06:47.337Z] 12:06:47  INFO: stepdefinitions.MasterStepDefs - Starting - E-Shop Application - Create New Account
+[2020-08-17T12:06:47.337Z] Aug 17, 2020 12:06:47 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+[2020-08-17T12:06:47.337Z] INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+[2020-08-17T12:06:48.969Z] org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+[2020-08-17T12:06:48.969Z] Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+[2020-08-17T12:06:48.969Z] System info: host: 'c153f2d90cad', ip: '172.17.0.4', os.name: 'Linux', os.arch: 'amd64', os.version: '4.19.76-linuxkit', java.version: '1.8.0_212'
+[2020-08-17T12:06:48.969Z] Driver info: driver.version: RemoteWebDriver
+[2020-08-17T12:06:48.969Z] 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:573)
+[2020-08-17T12:06:48.969Z] 	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+[2020-08-17T12:06:48.969Z] 	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+[2020-08-17T12:06:48.969Z] 	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:144)
+[2020-08-17T12:06:48.969Z] 	at framework.WebDriverFactory.createWebDriverInstance(WebDriverFactory.java:61)
+[2020-08-17T12:06:48.969Z] 	at stepdefinitions.MasterStepDefs.initializeDriver(MasterStepDefs.java:38)
+[2020-08-17T12:06:48.969Z] 	at stepdefinitions.WebEShopStepDefs.user_launched_eshop_login_page_in(WebEShopStepDefs.java:28)
+[2020-08-17T12:06:48.969Z] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[2020-08-17T12:06:48.969Z] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[2020-08-17T12:06:48.969Z] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[2020-08-17T12:06:48.969Z] 	at java.lang.reflect.Method.invoke(Method.java:498)
+[2020-08-17T12:06:48.969Z] 	at cucumber.runtime.Utils$1.call(Utils.java:26)
+[2020-08-17T12:06:48.969Z] 	at cucumber.runtime.Timeout.timeout(Timeout.java:16)
+[2020-08-17T12:06:48.969Z] 	at cucumber.runtime.Utils.invoke(Utils.java:20)
+[2020-08-17T12:06:48.969Z] 	at cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:57)
+[2020-08-17T12:06:48.969Z] 	at cucumber.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:50)
+[2020-08-17T12:06:48.969Z] 	at cucumber.runner.TestStep.executeStep(TestStep.java:63)
+[2020-08-17T12:06:48.969Z] 	at cucumber.runner.TestStep.run(TestStep.java:49)
+[2020-08-17T12:06:48.969Z] 	at cucumber.runner.PickleStepTestStep.run(PickleStepTestStep.java:43)
+[2020-08-17T12:06:48.969Z] 	at cucumber.runner.TestCase.run(TestCase.java:45)
+[2020-08-17T12:06:48.969Z] 	at cucumber.runner.Runner.runPickle(Runner.java:40)
+[2020-08-17T12:06:48.969Z] 	at cucumber.runtime.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:146)
+[2020-08-17T12:06:48.969Z] 	at cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:68)
+[2020-08-17T12:06:48.969Z] 	at cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:23)
+[2020-08-17T12:06:48.969Z] 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+[2020-08-17T12:06:48.969Z] 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+[2020-08-17T12:06:48.969Z] 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+[2020-08-17T12:06:48.969Z] 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+[2020-08-17T12:06:48.969Z] 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+[2020-08-17T12:06:48.969Z] 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+[2020-08-17T12:06:48.969Z] 	at cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:73)
+[2020-08-17T12:06:48.969Z] 	at cucumber.api.junit.Cucumber.runChild(Cucumber.java:122)
+[2020-08-17T12:06:48.969Z] 	at cucumber.api.junit.Cucumber.runChild(Cucumber.java:64)
+[2020-08-17T12:06:48.969Z] 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+[2020-08-17T12:06:48.969Z] 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+[2020-08-17T12:06:48.969Z] 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+[2020-08-17T12:06:48.969Z] 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+[2020-08-17T12:06:48.969Z] 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+[2020-08-17T12:06:48.969Z] 	at cucumber.api.junit.Cucumber$1.evaluate(Cucumber.java:131)
+[2020-08-17T12:06:48.969Z] 	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+[2020-08-17T12:06:48.969Z] 	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+[2020-08-17T12:06:48.969Z] 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+[2020-08-17T12:06:48.969Z] 	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:365)
+[2020-08-17T12:06:48.969Z] 	at org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:273)
+[2020-08-17T12:06:48.969Z] 	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:238)
+[2020-08-17T12:06:48.969Z] 	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:159)
+[2020-08-17T12:06:48.969Z] 	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:377)
+[2020-08-17T12:06:48.969Z] 	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:138)
+[2020-08-17T12:06:48.969Z] 	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:465)
+[2020-08-17T12:06:48.969Z] 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:451)
+[2020-08-17T12:06:48.969Z] Caused by: java.net.UnknownHostException: zalenium: Name or service not known
+[2020-08-17T12:06:48.969Z] 	at java.net.Inet4AddressImpl.lookupAllHostAddr(Native Method)
+[2020-08-17T12:06:48.969Z] 	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:929)
+[2020-08-17T12:06:48.969Z] 	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1324)
+[2020-08-17T12:06:48.969Z] 	at java.net.InetAddress.getAllByName0(InetAddress.java:1277)
+[2020-08-17T12:06:48.969Z] 	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+[2020-08-17T12:06:48.969Z] 	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+[2020-08-17T12:06:48.969Z] 	at okhttp3.Dns$1.lookup(Dns.java:40)
+[2020-08-17T12:06:48.969Z] 	at okhttp3.internal.connection.RouteSelector.resetNextInetSocketAddress(RouteSelector.java:185)
+[2020-08-17T12:06:48.969Z] 	at okhttp3.internal.connection.RouteSelector.nextProxy(RouteSelector.java:149)
+[2020-08-17T12:06:48.969Z] 	at okhttp3.internal.connection.RouteSelector.next(RouteSelector.java:84)
+[2020-08-17T12:06:48.969Z] 	at okhttp3.internal.connection.StreamAllocation.findConnection(StreamAllocation.java:214)
+[2020-08-17T12:06:48.969Z] 	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(StreamAllocation.java:135)
+[2020-08-17T12:06:48.969Z] 	at okhttp3.internal.connection.StreamAllocation.newStream(StreamAllocation.java:114)
+[2020-08-17T12:06:48.969Z] 	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:42)
+[2020-08-17T12:06:48.969Z] 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+[2020-08-17T12:06:48.969Z] 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+[2020-08-17T12:06:48.969Z] 	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)
+[2020-08-17T12:06:48.969Z] 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+[2020-08-17T12:06:48.969Z] 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+[2020-08-17T12:06:48.969Z] 	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
+[2020-08-17T12:06:48.969Z] 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+[2020-08-17T12:06:48.969Z] 	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:126)
+[2020-08-17T12:06:48.969Z] 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+[2020-08-17T12:06:48.969Z] 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+[2020-08-17T12:06:48.969Z] 	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)
+[2020-08-17T12:06:48.969Z] 	at okhttp3.RealCall.execute(RealCall.java:77)
+[2020-08-17T12:06:48.969Z] 	at org.openqa.selenium.remote.internal.OkHttpClient.execute(OkHttpClient.java:103)
+[2020-08-17T12:06:48.969Z] 	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:105)
+[2020-08-17T12:06:48.969Z] 	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
+[2020-08-17T12:06:48.969Z] 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+[2020-08-17T12:06:48.969Z] 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+[2020-08-17T12:06:48.969Z] 	... 49 more
+[2020-08-17T12:06:48.969Z] 12:06:48  INFO: stepdefinitions.MasterStepDefs - E-Shop Application - Create New Account Status - FAILED
+[2020-08-17T12:06:48.969Z] 12:06:48  INFO: stepdefinitions.MasterStepDefs - ######### Count of FAILED #########
+[2020-08-17T12:06:48.969Z] 12:06:48  INFO: stepdefinitions.MasterStepDefs - 1
+[2020-08-17T12:06:48.969Z] 12:06:48  INFO: stepdefinitions.MasterStepDefs - ######### Count of Failed #########
+[2020-08-17T12:06:48.969Z] 
+[2020-08-17T12:06:48.969Z] Failed scenarios:
+[2020-08-17T12:06:48.969Z] src/test/resources/features/Web01_EShopLogin.feature:12 # E-Shop Application - Create New Account
+[2020-08-17T12:06:48.969Z] 
+[2020-08-17T12:06:48.969Z] 1 Scenarios (1 failed)
+[2020-08-17T12:06:48.969Z] 3 Steps (1 failed, 2 skipped)
+[2020-08-17T12:06:48.969Z] 0m2.572s
+[2020-08-17T12:06:48.969Z] 
+[2020-08-17T12:06:48.969Z] java.lang.NullPointerException
+[2020-08-17T12:06:48.969Z] 	at java.util.Objects.requireNonNull(Objects.java:203)
+[2020-08-17T12:06:48.969Z] 	at org.openqa.selenium.support.ui.FluentWait.<init>(FluentWait.java:106)
+[2020-08-17T12:06:48.969Z] 	at org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:85)
+[2020-08-17T12:06:48.969Z] 	at org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:45)
+[2020-08-17T12:06:48.969Z] 	at stepdefinitions.MasterStepDefs.initializeDriver(MasterStepDefs.java:39)
+[2020-08-17T12:06:48.969Z] 	at stepdefinitions.WebEShopStepDefs.user_launched_eshop_login_page_in(WebEShopStepDefs.java:28)
+[2020-08-17T12:06:48.969Z] 	at ✽.User launched eshop login page in "Web"(file:src/test/resources/features/Web01_EShopLogin.feature:6)
+[2020-08-17T12:06:48.969Z] 
+[2020-08-17T12:06:49.668Z] 12:06:49  INFO: runner.TestsRunner - ########### INSIDE AFTER CLASS ###########
+[2020-08-17T12:06:49.668Z] [[1;31mERROR[m] [1;31mTests [0;1mrun: [0;1m1[m, Failures: 0, [1;31mErrors: [0;1;31m1[m, Skipped: 0, Time elapsed: 3.964 s[1;31m <<< FAILURE![m - in runner.[1mTestsRunner[m
+[2020-08-17T12:06:49.668Z] [[1;31mERROR[m] Mythical Mysfits Eshop UI login feature.E-Shop Application - Create New Account  Time elapsed: 2.086 s  <<< ERROR!
+[2020-08-17T12:06:49.668Z] java.lang.NullPointerException
+[2020-08-17T12:06:49.668Z] 
+[2020-08-17T12:06:49.990Z] [[1;34mINFO[m] 
+[2020-08-17T12:06:49.990Z] [[1;34mINFO[m] Results:
+[2020-08-17T12:06:49.990Z] [[1;34mINFO[m] 
+[2020-08-17T12:06:49.990Z] [[1;31mERROR[m] [1;31mErrors: [m
+[2020-08-17T12:06:49.990Z] [[1;31mERROR[m] [1;31m  null[m
+[2020-08-17T12:06:49.990Z] [[1;34mINFO[m] 
+[2020-08-17T12:06:49.990Z] [[1;31mERROR[m] [1;31mTests run: 1, Failures: 0, Errors: 1, Skipped: 0[m
+[2020-08-17T12:06:49.990Z] [[1;34mINFO[m] 
+[2020-08-17T12:06:49.990Z] [[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[2020-08-17T12:06:49.990Z] [[1;34mINFO[m] [1;31mBUILD FAILURE[m
+[2020-08-17T12:06:49.990Z] [[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[2020-08-17T12:06:49.990Z] [[1;34mINFO[m] Total time:  26.426 s
+[2020-08-17T12:06:49.990Z] [[1;34mINFO[m] Finished at: 2020-08-17T12:06:49Z
+[2020-08-17T12:06:49.990Z] [[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[2020-08-17T12:06:49.990Z] [[1;31mERROR[m] Failed to execute goal [32morg.apache.maven.plugins:maven-surefire-plugin:3.0.0-M4:test[m [1m(default-test)[m on project [36mawsworkshop_test_functional_assurance[m: [1;31mThere are test failures.[m
+[2020-08-17T12:06:49.991Z] [[1;31mERROR[m] [1;31m[m
+[2020-08-17T12:06:49.991Z] [[1;31mERROR[m] [1;31mPlease refer to /functional-assurance/target/surefire-reports for the individual test results.[m
+[2020-08-17T12:06:49.991Z] [[1;31mERROR[m] [1;31mPlease refer to dump files (if any exist) [date].dump, [date]-jvmRun[N].dump and [date].dumpstream.[m
+[2020-08-17T12:06:49.991Z] [[1;31mERROR[m] -> [1m[Help 1][m
+[2020-08-17T12:06:49.991Z] [[1;31mERROR[m] 
+[2020-08-17T12:06:49.991Z] [[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[2020-08-17T12:06:49.991Z] [[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[2020-08-17T12:06:49.991Z] [[1;31mERROR[m] 
+[2020-08-17T12:06:49.991Z] [[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[2020-08-17T12:06:49.991Z] [[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+[8mha:////4M9UU9j6sImvn68lYYjfUTXG/N7MKSge/sxN9IKGz0czAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICtIgqreWGF5jYGCfWnbEdkooX8TX+QCASFVusdraZ5wuWKcKRo8XWUOcoNQ6D7+20cODYXTwP2PIZG6bE3qA0g2Rt6hklZwNzihIWAlaGGs/Jkc2wFq26q8orstUpx+k7CCidvsEDCjGZs4r5C2OEzbXXienn+SuAMYQM5W7/qe0bsgYiW74AAAA=[0m[Pipeline] }
+[8mha:////4DNAPwpYxeUJ7aBkcClTKPIZLp+MInK0o6edLRthAckTAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRokKIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfLsTZPsP6C1U670AAAA=[0m[Pipeline] // dir
+[8mha:////4CQ4nIPfdDoCLVToFHtiJzqHNQyjWyq7kD+Q/O9NdU0gAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIREgUSoqK10vACkxjjxLoL9oWk4kV8jT8QEYmKrXammdcbyxRx5OhUY6n1lCqvutC76amBY3sNPKiGL6piShysKu1Qcm1PM5YsFvOyHAuNlaUqcPLkBGvdmIcpgiFXnCVO7qCR+/qOJzI9lcVE+cIYsbn1dWL6df4GMHadIN/uBNn+A27Bcy69AAAA[0m[Pipeline] }
+[8mha:////4PA1B4NtLzq58t02V4kvvqPgRPa7kMnjKQ6YOUIlZ4C4AAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRBaJAVLRWGl5gEmOcWHfBvpBUvIiv8QciIlGx1c4083pjmSKOHJ1qLLWeUuVVF3o3PTVwbK+BB9XwRVVMiYNVpR1Kru1pxpLFYl6WY6GxslQFTp6cYK0b8zBFMOSKs8TJHTRyX9/xRKanspgoXxgjNre+Tky/zt8Axq4T5NudINt/AE/1rIO9AAAA[0m[Pipeline] // stage
+[8mha:////4KF75z0XNA9bp+e8ywP/u3n/P+0N3wyI0G/8arXTUVPXAAAAox+LCAAAAAAAAP9tjTESgjAQRT84FraWHiKMDY1jZZuh8QQRYgxkdjFZhMoTeTXvICMzVv7qv9e81xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0g35eCrPwACb8Ls70AAAA=[0m[Pipeline] }
+[8mha:////4CKQkqnfOTesKgV/yfnPoA81EO4Jd/glOedl0i+uGHiTAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRBaJAVLRWGl5gEmOcWHfBvpBUvIiv8QciIlGx1c4083pjmSKOHJ1qLLWeUuVVF3o3PTVwbK+BB9XwRVVMiYNVpR1Kru1pxpLFYl6WY6GxslQFTp6cYK0b8zBFMOSKs8TJHTRyX9/xRKanspgoXxgjNre+Tky/zt8Axq4T5Nu9INt9AAPHYhe9AAAA[0m[Pipeline] // node
+[8mha:////4JfHgVJHXCQTfIFaMDeL96eimEgpw67dkw1FwZBKnoLCAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIREgUSoqK10vACkxjjxLoL9oWk4kV8jT8QEYmKrXammdcbyxRx5OhUY6n1lCqvutC76amBY3sNPKiGL6piShysKu1Qcm1PM5YsFvOyHAuNlaUqcPLkBGvdmIcpgiFXnCVO7qCR+/qOJzI9lcVE+cIYsbn1dWL6df4GMHadIN/uBdnuA0RgNeK9AAAA[0m[Pipeline] }
+[8mha:////4MmtP0qeqC8NBoHI7u4cBShnMiBgVRG1beLmeI1wLZFCAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRokKIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfLsXZLsPV9wxQb0AAAA=[0m[Pipeline] // timestamps
+[8mha:////4ENW5HFdMTRSYBIonXfgqwJ4DrOkNjgfXfJm27T9OuFOAAAAoh+LCAAAAAAAAP9tjTESgjAQRT84FraWHiI4tI6VbYbGE0SIMZDZxWQRKk/k1byDjMxY+av/XvNeb6xTxJGjU62lzlOqverD4OanRo7dNfCoWr6omilxsKqyY8WNPS1YsVgsy3KsNDaW6sDJkxNsdWsepgiGXHGWOLuDRu6bO57I9FwWE+ULU8TuNjSJ6df5G8DU94K83Auy8gMe/LK9vQAAAA==[0m[Pipeline] End of Pipeline
+ERROR: script returned exit code 1
+Finished: FAILURE

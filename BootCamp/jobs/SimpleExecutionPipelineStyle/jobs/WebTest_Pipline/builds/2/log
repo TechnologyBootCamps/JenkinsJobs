@@ -1,0 +1,92 @@
+Started by user [8mha:////4Dta+V6pPCd2bQXU7xodkoAapf5AUbFr+iWvs1gFwt+2AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgZu/dLi1CL9xJTczDwAg9OS0cAAAAA=[0mMohanraj
+Obtained mac/SimpleExecutionJenkinsFile from git https://github.com/TechnologyBootCamps/pipeline-as-a-code-automation
+Running in Durability level: MAX_SURVIVABILITY
+[8mha:////4Io3E4We+CAl7jv989eAwmwVx2sNXoyXfn9MGqEG3DLoAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4LrHOWWpFasz1BlZLNtwL76kzyfYqMPVnHVNApAom7GRAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] timestamps
+[8mha:////4HaYiWs6JAqMt1wrMv1DY8AmvYns+FZKxC+aXqbG5PUXAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4HafEVhaQHlLYoj0MGjEhPNF71xMtXv1w2TpkvE4wGPTAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] node
+[2020-08-17T09:03:13.002Z] Running on [8mha:////4FxTFt9xxGg0KKd84qY8pyrCux2heOLDMVrEh/+szOxMAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZh/eT83ILSktQifY3cxGIgrakPAHib2iPIAAAA[0mJenkins in /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/SimpleExecution/WebTest_Pipline
+[8mha:////4E77uw0ArmfRAQRzhwk7MP/vxfU47zsF6e6gTYkn5GO3AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] {
+[8mha:////4C39pb1chSuuPUCv8yZnBNfXPmvcjuYKvKvyujcYkOavAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gwExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jcChmMxwAAAAA==[0m[Pipeline] stage
+[8mha:////4EqThr3O3rh5Hz5CmHwLL2K+LrA/LPqQ8ORnYRqiFdIpAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0BAkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfpX/cvwAAAAA==[0m[Pipeline] { (Git Checkout)
+[8mha:////4ACUspBkBN3yU+m/pUTcM2xV7M1ZJyKcW/zkiDnuAkNDAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaoyVLaHxBMgiwpL/WWDdrTyRV/MOEjexcpJJ5k3zXm9Y5wQnSpZ7g73DrB2PYbR18YlSfws0cU9XrgkzBcOlmSR15rygpGJgCWtgJWBjUAfKDm2BrfDqodqg0LaXkup3FNC4boAnMFHNRaXyhTnB7j52mfDn+SuAORZg+9pD/AAeoCAqvAAAAA==[0m[Pipeline] checkout
+[2020-08-17T09:03:13.145Z] No credentials specified
+[2020-08-17T09:03:13.147Z]  > git rev-parse --is-inside-work-tree # timeout=10
+[2020-08-17T09:03:13.166Z] Fetching changes from the remote Git repository
+[2020-08-17T09:03:13.166Z]  > git config remote.origin.url https://github.com/TechnologyBootCamps/functional-assurance # timeout=10
+[2020-08-17T09:03:13.183Z] Fetching upstream changes from https://github.com/TechnologyBootCamps/functional-assurance
+[2020-08-17T09:03:13.184Z]  > git --version # timeout=10
+[2020-08-17T09:03:13.201Z]  > git --version # 'git version 2.21.1 (Apple Git-122.3)'
+[2020-08-17T09:03:13.201Z]  > git fetch --tags --force --progress -- https://github.com/TechnologyBootCamps/functional-assurance +refs/heads/*:refs/remotes/origin/* # timeout=10
+[2020-08-17T09:03:15.436Z]  > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+[2020-08-17T09:03:15.452Z]  > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+[2020-08-17T09:03:15.474Z] Checking out Revision cc48bcd6d892e7a14bd3989d2525fd8dc8edcb35 (refs/remotes/origin/master)
+[2020-08-17T09:03:15.474Z]  > git config core.sparsecheckout # timeout=10
+[2020-08-17T09:03:15.493Z]  > git checkout -f cc48bcd6d892e7a14bd3989d2525fd8dc8edcb35 # timeout=10
+[2020-08-17T09:03:15.530Z] Commit message: "Fixing Error"
+[2020-08-17T09:03:15.535Z]  > git rev-list --no-walk 025060584c599c64ece92d65cbeb061bb5e6b273 # timeout=10
+[8mha:////4GwbAba2rFIpeW1TSTDUrxhJg13HrUI6dP/hzHTzdYpIAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKBDglR0VppeIFJjHFi3QX7QlLxIr7GH4iIRMVWO9PM641lijhydKqx1HpKlVdd6N301MCxvQYeVMMXVTElDlaVdii5tqcZSxaLeVmOhcbKUhU4eXKCtW7MwxTBkCvOEid30Mh9fccTmZ7KYqJ8YYzY3Po6Mf06fwMYu06Q77aCbP8Brmfz270AAAA=[0m[Pipeline] }
+[8mha:////4DQbg+BLNt3dXVFhaXqqSjaw0OOw64T94hlkPVk0Gl+gAAAAox+LCAAAAAAAAP9tjTESgjAQRT84FraWHiIMlYVjZZuh8QQRYgxkdjFZhMoTeTXvICMzVv7qv9e81xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0gL0tBtv8Aj1Msdr0AAAA=[0m[Pipeline] // stage
+[8mha:////4OuUKdneJzm5dF327EOqRbg9lRPkwi3XW0ioHv2Syu5TAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjKGgQFa3lhheY2Bgn1l2wLyQVL+Jr/IFAJCq22llpNc8XlDnBgZKXjcM2YK6D7GLvpyYHSu0l0iAbOsuaMFN0UrtBk3XHGTWxgzmigIWCpcM6Ug7oGVaqMXdTRYO+OnGatr2CItgbPECoycwm8RfGBOtrbzPhz/NXAGPHIHYMxWb7OZZvfPyORMEAAAA=[0m[Pipeline] stage
+[8mha:////4AF6HscB7S3ghjX1mSYOxZbWiSMpoowAXx7rljmaC3BXAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUwIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLdfrbD/Cw+y7kUycIAAAA=[0m[Pipeline] { (Execute Scripts)
+[8mha:////4KBj2i2laC3cpX0ieY6lp807K/KUx77M+wJHIemJdCRfAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiBB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyu3uU/vwBgq0rvS+AAAA[0m[Pipeline] sh
+[2020-08-17T09:03:16.064Z] + mvn clean test '-Dcucumber.options=--tags '\''@UITest and @Smoke'\''' -DexecutionPlatform=LOCAL_CHROME
+[2020-08-17T09:03:18.981Z] [INFO] Scanning for projects...
+[2020-08-17T09:03:19.306Z] [INFO] 
+[2020-08-17T09:03:19.306Z] [INFO] ---------< org.example:awsworkshop_test_functional_assurance >----------
+[2020-08-17T09:03:19.306Z] [INFO] Building awsworkshop_test_functional_assurance 1.0-SNAPSHOT
+[2020-08-17T09:03:19.306Z] [INFO] --------------------------------[ jar ]---------------------------------
+[2020-08-17T09:03:20.006Z] [INFO] 
+[2020-08-17T09:03:20.006Z] [INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ awsworkshop_test_functional_assurance ---
+[2020-08-17T09:03:20.006Z] [INFO] Deleting /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/SimpleExecution/WebTest_Pipline/target
+[2020-08-17T09:03:20.006Z] [INFO] 
+[2020-08-17T09:03:20.006Z] [INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ awsworkshop_test_functional_assurance ---
+[2020-08-17T09:03:20.330Z] [WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[2020-08-17T09:03:20.330Z] [INFO] skip non existing resourceDirectory /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/SimpleExecution/WebTest_Pipline/src/main/resources
+[2020-08-17T09:03:20.330Z] [INFO] 
+[2020-08-17T09:03:20.330Z] [INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ awsworkshop_test_functional_assurance ---
+[2020-08-17T09:03:20.656Z] [INFO] No sources to compile
+[2020-08-17T09:03:20.656Z] [INFO] 
+[2020-08-17T09:03:20.656Z] [INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ awsworkshop_test_functional_assurance ---
+[2020-08-17T09:03:20.656Z] [WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[2020-08-17T09:03:20.656Z] [INFO] Copying 11 resources
+[2020-08-17T09:03:20.656Z] [INFO] 
+[2020-08-17T09:03:20.656Z] [INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ awsworkshop_test_functional_assurance ---
+[2020-08-17T09:03:20.656Z] [INFO] Changes detected - recompiling the module!
+[2020-08-17T09:03:20.656Z] [INFO] Compiling 12 source files to /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/SimpleExecution/WebTest_Pipline/target/test-classes
+[2020-08-17T09:03:21.790Z] [INFO] -------------------------------------------------------------
+[2020-08-17T09:03:21.790Z] [ERROR] COMPILATION ERROR : 
+[2020-08-17T09:03:21.790Z] [INFO] -------------------------------------------------------------
+[2020-08-17T09:03:21.790Z] [ERROR] /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/SimpleExecution/WebTest_Pipline/src/test/java/framework/WebDriverFactory.java:[13,38] package software.amazon.awssdk.regions does not exist
+[2020-08-17T09:03:21.790Z] [ERROR] /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/SimpleExecution/WebTest_Pipline/src/test/java/framework/WebDriverFactory.java:[14,50] package software.amazon.awssdk.services.devicefarm does not exist
+[2020-08-17T09:03:21.790Z] [ERROR] /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/SimpleExecution/WebTest_Pipline/src/test/java/framework/WebDriverFactory.java:[15,56] package software.amazon.awssdk.services.devicefarm.model does not exist
+[2020-08-17T09:03:21.791Z] [ERROR] /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/SimpleExecution/WebTest_Pipline/src/test/java/framework/WebDriverFactory.java:[16,56] package software.amazon.awssdk.services.devicefarm.model does not exist
+[2020-08-17T09:03:21.791Z] [INFO] 4 errors 
+[2020-08-17T09:03:21.791Z] [INFO] -------------------------------------------------------------
+[2020-08-17T09:03:21.791Z] [INFO] ------------------------------------------------------------------------
+[2020-08-17T09:03:21.791Z] [INFO] BUILD FAILURE
+[2020-08-17T09:03:21.791Z] [INFO] ------------------------------------------------------------------------
+[2020-08-17T09:03:21.791Z] [INFO] Total time:  2.626 s
+[2020-08-17T09:03:21.791Z] [INFO] Finished at: 2020-08-17T14:33:21+05:30
+[2020-08-17T09:03:21.791Z] [INFO] ------------------------------------------------------------------------
+[2020-08-17T09:03:21.791Z] [ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.1:testCompile (default-testCompile) on project awsworkshop_test_functional_assurance: Compilation failure: Compilation failure: 
+[2020-08-17T09:03:21.791Z] [ERROR] /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/SimpleExecution/WebTest_Pipline/src/test/java/framework/WebDriverFactory.java:[13,38] package software.amazon.awssdk.regions does not exist
+[2020-08-17T09:03:21.791Z] [ERROR] /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/SimpleExecution/WebTest_Pipline/src/test/java/framework/WebDriverFactory.java:[14,50] package software.amazon.awssdk.services.devicefarm does not exist
+[2020-08-17T09:03:21.791Z] [ERROR] /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/SimpleExecution/WebTest_Pipline/src/test/java/framework/WebDriverFactory.java:[15,56] package software.amazon.awssdk.services.devicefarm.model does not exist
+[2020-08-17T09:03:21.791Z] [ERROR] /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/SimpleExecution/WebTest_Pipline/src/test/java/framework/WebDriverFactory.java:[16,56] package software.amazon.awssdk.services.devicefarm.model does not exist
+[2020-08-17T09:03:21.791Z] [ERROR] -> [Help 1]
+[2020-08-17T09:03:21.791Z] [ERROR] 
+[2020-08-17T09:03:21.791Z] [ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[2020-08-17T09:03:21.791Z] [ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[2020-08-17T09:03:21.791Z] [ERROR] 
+[2020-08-17T09:03:21.791Z] [ERROR] For more information about the errors and possible solutions, please read the following articles:
+[2020-08-17T09:03:21.791Z] [ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+[8mha:////4KHLkCeBkBplF0Q7eiUwOz0GNyA+xRTFwzSyACAJFmAlAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIihKgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7N7BnLt++AAAA[0m[Pipeline] }
+[8mha:////4P8u+47DbdZFbHER+DyoZZzfgOELCBVMDXyndBcp8HTqAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiKGgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7N4glvS6+AAAA[0m[Pipeline] // stage
+[8mha:////4Fa5utcwnJPlEC26TcsagfMO1ORK32mz1lp8N5XVWnJmAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRDRSIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfLsXZLsPuZZrjr0AAAA=[0m[Pipeline] }
+[8mha:////4FgHfsJAMfBtW/iUVeO3mNCAWWMHRbD0VqwUNMsJSAXUAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRBRISoqK10vACkxjjxLoL9oWk4kV8jT8QEYmKrXammdcbyxRx5OhUY6n1lCqvutC76amBY3sNPKiGL6piShysKu1Qcm1PM5YsFvOyHAuNlaUqcPLkBGvdmIcpgiFXnCVO7qCR+/qOJzI9lcVE+cIYsbn1dWL6df4GMHadIN/uBdnuA9JQMpW9AAAA[0m[Pipeline] // node
+[8mha:////4IQ9j6kHvZddl1OKi6n+21AiF+x3/lA58LpKbvNWVRmNAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIREg1CVLRWGl5gEmOcWHfBvpBUvIiv8QciIlGx1c4083pjmSKOHJ1qLLWeUuVVF3o3PTVwbK+BB9XwRVVMiYNVpR1Kru1pxpLFYl6WY6GxslQFTp6cYK0b8zBFMOSKs8TJHTRyX9/xRKanspgoXxgjNre+Tky/zt8Axq4T5Nu9INt9APRJVd+9AAAA[0m[Pipeline] }
+[8mha:////4EMSxH+gTu/eRsvSst3UKsKsB6RXwCb3VWuQYFbO9CkdAAAAoh+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMJBUCIqWisNLzCJMU6su2BfSCpexNf4AxGRqNhqZ5p5vbFMEUeOTjWWWk+p8qoLvZueGji218CDaviiKqbEwarSDiXX9jRjyWIxL8ux0FhZqgInT06w1o15mCIYcsVZ4uQOGrmv73gi01NZTJQvjBGbW18npl/nbwBj1wny3VaQ7T+IzLXKvQAAAA==[0m[Pipeline] // timestamps
+[8mha:////4LJ5Kb2GiyJPWIZrNZ4i1z0XJqu9LUvuYgxe4lf8Mj6tAAAAoh+LCAAAAAAAAP9tjTESgjAQRT84FraWHiKMtI6VbYbGE0SIMZDZxWQRKk/k1byDjMxY+av/XvNeb6xTxJGjU62lzlOqverD4OanRo7dNfCoWr6omilxsKqyY8WNPS1YsVgsy3KsNDaW6sDJkxNsdWsepgiGXHGWOLuDRu6bO57I9FwWE+ULU8TuNjSJ6df5G8DU94K83Auy8gOu1dKAvQAAAA==[0m[Pipeline] End of Pipeline
+ERROR: script returned exit code 1
+Finished: FAILURE

@@ -1,0 +1,10 @@
+commit 025060584c599c64ece92d65cbeb061bb5e6b273
+tree 3c0acd6f248165bdd86e7ca122ccf46498862072
+parent 61d2af45fa7cc8d709cf8d2539fc5823a0dc160d
+author Mohanraj Mathavan <mohanraj.mathavan@cognizant.com> 2020-08-14 00:59:33 +0530
+committer Mohanraj Mathavan <mohanraj.mathavan@cognizant.com> 2020-08-14 00:59:33 +0530
+
+    Update extent.properties
+
+
+:100644 100644 23c4c14cd0298d9b23535f2e7d3ce16b569d704c 4567f69b959770f6be4cc79cee20cec4d8d43706 M	src/test/resources/extent.properties

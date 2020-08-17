@@ -1,0 +1,26 @@
+commit cc48bcd6d892e7a14bd3989d2525fd8dc8edcb35
+tree 62796954e339c3ccf83c12c412b336f98c7d096f
+parent 7c99405b40040fb87abdbc76a11262768a0fb53a
+author Mohanraj Mathavan <mohanraj.mathavan@cognizant.com> 2020-08-15 00:37:56 +0530
+committer Mohanraj Mathavan <mohanraj.mathavan@cognizant.com> 2020-08-15 00:37:56 +0530
+
+    Fixing Error
+
+
+:100644 100644 3ade0b6be57b1d8b21a1f9c8c8446b25beb54e50 0bcc208ce4005738ceac68fd8ad975d9f8f27b90 M	DockerStandAloneMavenJDK8.Dockerfile
+:100644 100644 3a8d9785d9d776fe9582050d4aa9537e671a405b a9a7083b7c2b75ada5fb9e114b5e858a93480802 M	src/test/java/framework/WebDriverFactory.java
+commit 7c99405b40040fb87abdbc76a11262768a0fb53a
+tree aa628b4227a2f991f26ce9a6a7ab39a0302d1d56
+parent 025060584c599c64ece92d65cbeb061bb5e6b273
+author Mohanraj Mathavan <mohanraj.mathavan@cognizant.com> 2020-08-15 00:05:28 +0530
+committer Mohanraj Mathavan <mohanraj.mathavan@cognizant.com> 2020-08-15 00:05:28 +0530
+
+    removing aws reference
+
+
+:000000 100644 0000000000000000000000000000000000000000 3ade0b6be57b1d8b21a1f9c8c8446b25beb54e50 A	DockerStandAloneMavenJDK8.Dockerfile
+:000000 100644 0000000000000000000000000000000000000000 b3f553ecf0c788a3893fc7acfd4c3983924607f2 A	DockerStandAloneUbuntuVM.Dockerfile
+:000000 100644 0000000000000000000000000000000000000000 c3318e3bdb4dea00023db6776f254f0ba0bc4ca6 A	dockersample/selenium-docker-compose-example/docker-compose.yml
+:000000 100644 0000000000000000000000000000000000000000 262cc1ee945fb3d2f78f28cef56dd7d39fc63274 A	dockersample/selenium-tests-with-zalenium-compose/docker-compose.yml
+:100644 100644 61e86c29c67a2920a35fbd3a91a76145eb3ccdeb 3a2d56ef7c8237e0695a49d1b2622d426c83711a M	pom.xml
+:100644 100644 cb478998107e1e54d985c4a2febdbba21c0cf128 30b239f072c54061a0db861da6c62ffffea48e5b M	src/test/java/pages/ShopLoginPage.java

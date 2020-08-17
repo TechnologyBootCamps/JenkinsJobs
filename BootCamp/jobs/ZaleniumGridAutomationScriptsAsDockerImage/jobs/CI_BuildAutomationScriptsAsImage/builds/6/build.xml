@@ -1,0 +1,144 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<flow-build plugin="workflow-job@2.39">
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UserIdCause>
+            <userId>admin</userId>
+          </hudson.model.Cause_-UserIdCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <org.jenkinsci.plugins.workflow.libs.LibrariesAction plugin="workflow-cps-global-lib@2.17">
+      <libraries/>
+    </org.jenkinsci.plugins.workflow.libs.LibrariesAction>
+    <hudson.plugins.git.util.BuildData plugin="git@4.3.0">
+      <buildsByBranchName>
+        <entry>
+          <string>refs/remotes/origin/selenium-test-compose</string>
+          <hudson.plugins.git.util.Build>
+            <marked plugin="git-client@3.3.2">
+              <sha1>c3ed05576300b6d27c723ec61952a0ab844c36d3</sha1>
+              <branches class="list">
+                <hudson.plugins.git.Branch>
+                  <sha1 reference="../../../sha1"/>
+                  <name>refs/remotes/origin/selenium-test-compose</name>
+                </hudson.plugins.git.Branch>
+              </branches>
+            </marked>
+            <revision reference="../marked"/>
+            <hudsonBuildNumber>6</hudsonBuildNumber>
+          </hudson.plugins.git.util.Build>
+        </entry>
+      </buildsByBranchName>
+      <lastBuild reference="../buildsByBranchName/entry/hudson.plugins.git.util.Build"/>
+      <remoteUrls>
+        <string>https://github.com/TechnologyBootCamps/functional-assurance</string>
+      </remoteUrls>
+    </hudson.plugins.git.util.BuildData>
+    <hudson.plugins.git.GitTagAction plugin="git@4.3.0">
+      <tags class="hudson.util.CopyOnWriteMap$Tree">
+        <entry>
+          <string>refs/remotes/origin/selenium-test-compose</string>
+          <list/>
+        </entry>
+      </tags>
+      <ws>/Users/mohanrajmathavan/.jenkins/workspace/BootCamp/AutomationScriptsAsDockerImage/CI_BuildAutomationScriptsAsImage</ws>
+    </hudson.plugins.git.GitTagAction>
+    <org.jenkinsci.plugins.workflow.steps.scm.MultiSCMRevisionState plugin="workflow-scm-step@2.11">
+      <revisionStates>
+        <entry>
+          <string>git https://github.com/TechnologyBootCamps/functional-assurance</string>
+          <hudson.scm.SCMRevisionState_-None/>
+        </entry>
+      </revisionStates>
+    </org.jenkinsci.plugins.workflow.steps.scm.MultiSCMRevisionState>
+    <com.cloudbees.jenkins.plugins.bitbucket.FirstCheckoutCompletedInvisibleAction plugin="cloudbees-bitbucket-branch-source@2.9.1"/>
+  </actions>
+  <queueId>79</queueId>
+  <timestamp>1597665321211</timestamp>
+  <startTime>1597665321222</startTime>
+  <result>SUCCESS</result>
+  <duration>8061</duration>
+  <charset>UTF-8</charset>
+  <keepLog>false</keepLog>
+  <execution class="org.jenkinsci.plugins.workflow.cps.CpsFlowExecution">
+    <result>SUCCESS</result>
+    <script>timestamps {
+    node () {
+    	stage (&apos;Git Checkout&apos;) {
+     	 checkout([$class: &apos;GitSCM&apos;, branches: [[name: &apos;*/selenium-test-compose&apos;]], doGenerateSubmoduleConfigurations: false, extensions: [], submoduleCfg: [], userRemoteConfigs: [[credentialsId: &apos;&apos;, url: &apos;https://github.com/TechnologyBootCamps/functional-assurance&apos;]]])
+    	}
+    	stage (&apos;Validate Scripts&apos;) {
+                sh &quot;&quot;&quot;
+                ls
+                mvn clean compile
+                 &quot;&quot;&quot; 
+    	}
+    	stage (&apos;Build Image&apos;) {
+                sh &quot;&quot;&quot;
+                ls
+                docker build -t selenium-test .
+                 &quot;&quot;&quot; 
+    	}
+    }
+}
+</script>
+    <loadedScripts class="map"/>
+    <durabilityHint>MAX_SURVIVABILITY</durabilityHint>
+    <timings class="map">
+      <entry>
+        <string>flowNode</string>
+        <long>296779962</long>
+      </entry>
+      <entry>
+        <string>classLoad</string>
+        <long>7934466</long>
+      </entry>
+      <entry>
+        <string>run</string>
+        <long>542269520</long>
+      </entry>
+      <entry>
+        <string>parse</string>
+        <long>20492505</long>
+      </entry>
+      <entry>
+        <string>saveProgram</string>
+        <long>48814240</long>
+      </entry>
+    </timings>
+    <sandbox>true</sandbox>
+    <iota>26</iota>
+    <head>1:26</head>
+    <done>true</done>
+    <resumeBlocked>false</resumeBlocked>
+  </execution>
+  <completed>true</completed>
+  <checkouts class="hudson.util.PersistedList">
+    <org.jenkinsci.plugins.workflow.job.WorkflowRun_-SCMCheckout>
+      <scm class="hudson.plugins.git.GitSCM" plugin="git@4.3.0">
+        <configVersion>2</configVersion>
+        <userRemoteConfigs>
+          <hudson.plugins.git.UserRemoteConfig>
+            <url>https://github.com/TechnologyBootCamps/functional-assurance</url>
+          </hudson.plugins.git.UserRemoteConfig>
+        </userRemoteConfigs>
+        <branches>
+          <hudson.plugins.git.BranchSpec>
+            <name>*/selenium-test-compose</name>
+          </hudson.plugins.git.BranchSpec>
+        </branches>
+        <doGenerateSubmoduleConfigurations>false</doGenerateSubmoduleConfigurations>
+        <submoduleCfg class="list"/>
+        <extensions/>
+      </scm>
+      <node></node>
+      <workspace>/Users/mohanrajmathavan/.jenkins/workspace/BootCamp/AutomationScriptsAsDockerImage/CI_BuildAutomationScriptsAsImage</workspace>
+      <changelogFile>/Users/mohanrajmathavan/.jenkins/jobs/BootCamp/jobs/AutomationScriptsAsDockerImage/jobs/CI_BuildAutomationScriptsAsImage/builds/6/changelog13100997676031413346.xml</changelogFile>
+      <pollingBaseline class="hudson.scm.SCMRevisionState$None" reference="../../../actions/org.jenkinsci.plugins.workflow.steps.scm.MultiSCMRevisionState/revisionStates/entry/hudson.scm.SCMRevisionState_-None"/>
+    </org.jenkinsci.plugins.workflow.job.WorkflowRun_-SCMCheckout>
+  </checkouts>
+</flow-build>

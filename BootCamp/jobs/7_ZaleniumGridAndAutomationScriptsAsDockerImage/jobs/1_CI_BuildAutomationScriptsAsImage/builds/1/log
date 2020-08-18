@@ -1,0 +1,96 @@
+Started by user [8mha:////4Dta+V6pPCd2bQXU7xodkoAapf5AUbFr+iWvs1gFwt+2AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgZu/dLi1CL9xJTczDwAg9OS0cAAAAA=[0mMohanraj
+Running in Durability level: MAX_SURVIVABILITY
+[8mha:////4Io3E4We+CAl7jv989eAwmwVx2sNXoyXfn9MGqEG3DLoAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4LrHOWWpFasz1BlZLNtwL76kzyfYqMPVnHVNApAom7GRAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4FxTFt9xxGg0KKd84qY8pyrCux2heOLDMVrEh/+szOxMAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZh/eT83ILSktQifY3cxGIgrakPAHib2iPIAAAA[0mJenkins in /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/7_ZaleniumGridAndAutomationScriptsAsDockerImage/1_CI_BuildAutomationScriptsAsImage
+[8mha:////4HaYiWs6JAqMt1wrMv1DY8AmvYns+FZKxC+aXqbG5PUXAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4HafEVhaQHlLYoj0MGjEhPNF71xMtXv1w2TpkvE4wGPTAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4E77uw0ArmfRAQRzhwk7MP/vxfU47zsF6e6gTYkn5GO3AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (Git Checkout)
+[8mha:////4Bv8ofXiRzgWi9tNmVadlo7Da6324EXtC7TLvPzTv9KgAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] checkout
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/TechnologyBootCamps/functional-assurance
+ > git init /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/7_ZaleniumGridAndAutomationScriptsAsDockerImage/1_CI_BuildAutomationScriptsAsImage # timeout=10
+Fetching upstream changes from https://github.com/TechnologyBootCamps/functional-assurance
+ > git --version # timeout=10
+ > git --version # 'git version 2.21.1 (Apple Git-122.3)'
+ > git fetch --tags --force --progress -- https://github.com/TechnologyBootCamps/functional-assurance +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/TechnologyBootCamps/functional-assurance # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/TechnologyBootCamps/functional-assurance # timeout=10
+Fetching upstream changes from https://github.com/TechnologyBootCamps/functional-assurance
+ > git fetch --tags --force --progress -- https://github.com/TechnologyBootCamps/functional-assurance +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/selenium-test-compose^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/selenium-test-compose^{commit} # timeout=10
+Checking out Revision 45e46054b316bf2d6064f1c2405a4f0db7e604ce (refs/remotes/origin/selenium-test-compose)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 45e46054b316bf2d6064f1c2405a4f0db7e604ce # timeout=10
+Commit message: "Update ShopAddressPage.java"
+First time build. Skipping changelog.
+[8mha:////4A6lu4JF0LNgRsGUgPwIW2e9i6j6ypTKOVH5sR+Z8mALAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9Dg2gqvAAAAA==[0m[Pipeline] }
+[8mha:////4NfMQX7WQoSaTs2lHbYpPzpWtGm9QRwTEhQdrLM42XuwAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQRbWRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9J+wGOvAAAAA==[0m[Pipeline] // stage
+[8mha:////4PpqWWR1yKpEUCPO32uXZNvV1jp4J0ck+2VZuGgupb/CAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQDEh2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INtuQqUcEAAAA=[0m[Pipeline] stage
+[8mha:////4EmJH+eKtz6J8FadoCcltg0D239SOuSIdsm6bP3mFDcNAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycoiUzoiJNerCCUITQtLo/zZJSSdOxNW4Ay2VmPBg2Zas93pDGQOcKBjuNHYWY2t570czJ54pdDdPmTu68pYwkte80bkhpc9rbShpWFUw2AjYamw9RYsmwU44+ZCVl2iqSwrzdhTArBrgCYWYyUmG9C1TgP19VJHwx/kLgKlPwOrDYvXyLD8BobDcwgAAAA==[0m[Pipeline] { (Validate Scripts)
+[8mha:////4HKean/V2MBVG5ni+nGNkBLKzvpD2AuRU7ESx9bmh89tAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggysXWsbBkaT4AJIoT5nwCRVJ7Iq3kH0cxYucXOvm3e8wXrGOBIQTOrcDAYO8O8m3RZLFMYro4ys3RhHWEkp5hQWVCvTgsKSgqWVDWsOGwUdo6iQZ1gy628y8ZJ1M05hfIdONSmH+EBFS/mJEP6whxgd5v6SPjz/BXA7BPUbfupvX8DpQJrNb4AAAA=[0m[Pipeline] isUnix
+[8mha:////4CJ01+I9TTPH6D5RjinYHK0b3GpJZlpR8Wpu8X6Ys1izAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyGUvHypah8QSYIEKY/wkQSeWJvJp3EM2MlVvs7NvmPV+wjgGOFDSzCgeDsTPMu0mXxTKF4eooM0sX1hFGcooJlQX16rSgoKRgSVXDisNGYecoGtQJttzKu2ycRN2cUyjfgUNt+hEeUPFiTjKkL8wBdrepj4Q/z18BzD5B3baf2vs35DNwLL4AAAA=[0m[Pipeline] sh
++ mvn clean compile
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ---------< org.example:awsworkshop_test_functional_assurance >----------
+[INFO] Building awsworkshop_test_functional_assurance 1.0-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ awsworkshop_test_functional_assurance ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ awsworkshop_test_functional_assurance ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/7_ZaleniumGridAndAutomationScriptsAsDockerImage/1_CI_BuildAutomationScriptsAsImage/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ awsworkshop_test_functional_assurance ---
+[INFO] No sources to compile
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.040 s
+[INFO] Finished at: 2020-08-19T02:24:22+05:30
+[INFO] ------------------------------------------------------------------------
+[8mha:////4M6jKs98ttUqsG2x/NjaxChK95l2xCMxjkNzJq7X4j0yAAAApB+LCAAAAAAAAP9tjbEOwiAURV9rHFwd/QiaJm7GyZWw+AXYIkLJexSodPKL/DX/QbSJk3e4uecu5/mCdQxwpKCZVTgYjJ1h3k26LJYpDFdHmVm6sI4wklNMqCyoV6cFBSUFS6oaVhw2CjtH0aBOsOVW3mXjJOrmnEL5Dhxq04/wgIoXc5IhfWEOsLtNfST8ef4KYPY+Qd3uP9W+ATnVfPq+AAAA[0m[Pipeline] }
+[8mha:////4A+S/ZBtdGMJEZ5X9mnMQwpl+Jik1hOIxPpTz6aYmheYAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICBRWiSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nbf2r7Bgo2J0a+AAAA[0m[Pipeline] // stage
+[8mha:////4EjAh165L02v/PxijA6fPRQ3g31kZiXchF9Qle3F41MTAAAApx+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjJESDqGgtN7zAxMY4se6CfSGpeBFf4w8EIlGx1c5Kq3m+oMwJDpS8bBy2AXMdZBd7PzU5UGovkQbZ0FnWhJmik9oNmqw7zqiJHcwRBSwULB3WkXJAz7BSjbmbKhr01YnTtO0VFMHe4AFCTWY2ib8wJlhfe5sJf56/Ahg7BrFlKDa7z7F8A6sHc4fBAAAA[0m[Pipeline] stage
+[8mha:////4IgtR81nBUfjFrH7waVgosFzaiDGblWaGs4EuFFg858UAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohULDAgpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD1+IXOLCAAAA[0m[Pipeline] { (Build Image)
+[8mha:////4Fs3A3e1MbV/t+4aBOWpEYIhIUFR9UWsVgtx6JxKfTuFAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiKpAQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHNxXfVKy+AAAA[0m[Pipeline] isUnix
+[8mha:////4FNOWhkpknevHOCg76EuwXPUuzVq+AFxTokvZRz6G/XLAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiKoQQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHN1TuT7W+AAAA[0m[Pipeline] sh
++ docker build -t selenium-test .
+Sending build context to Docker daemon  200.7kB
+Step 1/6 : FROM    maven:3.6.0-jdk-8
+ ---> 938cf03ad8e9
+Step 2/6 : RUN     mkdir /functional-assurance
+ ---> Using cache
+ ---> 653e086227eb
+Step 3/6 : WORKDIR /functional-assurance
+ ---> Using cache
+ ---> 51b64a954705
+Step 4/6 : COPY    . .
+ ---> b4cfbab90c6f
+Step 5/6 : RUN ls
+ ---> Running in ac9bc63440f3
+Dockerfile
+README.md
+TestSettings.properties
+dockersample
+pom.xml
+src
+Removing intermediate container ac9bc63440f3
+ ---> a6d2d6be3ab5
+Step 6/6 : CMD mvn clean test -Dcucumber.options="--tags '@UITest and @Smoke'" -DexecutionPlatform="GRID_CHROME"
+ ---> Running in 296bf0a496e0
+Removing intermediate container 296bf0a496e0
+ ---> ad95993d564b
+Successfully built ad95993d564b
+Successfully tagged selenium-test:latest
+[8mha:////4N3pmITrQyyECKQS4fKBww42U0UGHt+YZ/3rWTxWkvlxAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICNBQoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDQMEcr9Ntfu8AGHKGa5vgAAAA==[0m[Pipeline] }
+[8mha:////4Dd7CXloKkw+WVbDqgf22/xRqRVN8KCXJg5kNPgEBohhAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKiUNAgqrRWGl5gYmOcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThwM9poGS7Gz6N1o8sKJw3B1PGHPF+yYIjuNrZ5aVrpZsOWkYUlRwkrARlPnOFoyCbailw9ZOUmmOqeQv6OA0qo7PKEQ2ZxkSF+YA+xuo4pMP89fAczeJyj3da768AG0yz0FvgAAAA==[0m[Pipeline] // stage
+[8mha:////4LmmjqpI1dAMZ2/nEgIP7rBj5sprEzk1XRqcc1bSl0yPAAAAox+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6IkxM04uTYsfkGFWgvNe9g+hMkv8tf8B4kkTt7pnrOc1xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0gL0tBtv8ASwoRLr0AAAA=[0m[Pipeline] }
+[8mha:////4LKpULBt7fOEhAJ64XRgJBu7Ursm1WCplqIQs+JAfmYnAAAAoh+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6IkMhon14bFL6hQa6F5D9uHMPlF/pr/IJHEyTvdc5bzemOdIo4cnWotdZ5S7VUfBjc/NXLsroFH1fJF1UyJg1WVHStu7GnBisViWZZjpbGxVAdOnpxgq1vzMEUw5IqzxNkdNHLf3PFEpueymChfmCJ2t6FJTL/O3wCmvhfk+1KQlR9YthWNvQAAAA==[0m[Pipeline] // node
+[8mha:////4EBkqRTX5ohnP6TyhpqadOqlFOcTYf6mnRn4GeWqXJ43AAAAox+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6IkxM04uTYsfkGFWgvNe9g+hMkv8tf8B4kkTt7pnrOc1xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0gL/eCrPwA3loySL0AAAA=[0m[Pipeline] End of Pipeline
+Finished: SUCCESS

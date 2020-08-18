@@ -1,231 +1,0 @@
-Started by user [8mha:////4Dta+V6pPCd2bQXU7xodkoAapf5AUbFr+iWvs1gFwt+2AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgZu/dLi1CL9xJTczDwAg9OS0cAAAAA=[0mMohanraj
-Running in Durability level: MAX_SURVIVABILITY
-[8mha:////4Io3E4We+CAl7jv989eAwmwVx2sNXoyXfn9MGqEG3DLoAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
-[8mha:////4LrHOWWpFasz1BlZLNtwL76kzyfYqMPVnHVNApAom7GRAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] timestamps
-[8mha:////4HaYiWs6JAqMt1wrMv1DY8AmvYns+FZKxC+aXqbG5PUXAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
-[8mha:////4HafEVhaQHlLYoj0MGjEhPNF71xMtXv1w2TpkvE4wGPTAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] node
-[2020-08-17T12:53:42.039Z] Running on [8mha:////4FxTFt9xxGg0KKd84qY8pyrCux2heOLDMVrEh/+szOxMAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZh/eT83ILSktQifY3cxGIgrakPAHib2iPIAAAA[0mJenkins in /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/SeleniumGridContainerUsingDockerCompose/RunSeleniumGridContainerUsingDockerCompose
-[8mha:////4E77uw0ArmfRAQRzhwk7MP/vxfU47zsF6e6gTYkn5GO3AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] {
-[8mha:////4C39pb1chSuuPUCv8yZnBNfXPmvcjuYKvKvyujcYkOavAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gwExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jcChmMxwAAAAA==[0m[Pipeline] stage
-[8mha:////4EqThr3O3rh5Hz5CmHwLL2K+LrA/LPqQ8ORnYRqiFdIpAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0BAkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfpX/cvwAAAAA==[0m[Pipeline] { (Git Checkout)
-[8mha:////4ACUspBkBN3yU+m/pUTcM2xV7M1ZJyKcW/zkiDnuAkNDAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaoyVLaHxBMgiwpL/WWDdrTyRV/MOEjexcpJJ5k3zXm9Y5wQnSpZ7g73DrB2PYbR18YlSfws0cU9XrgkzBcOlmSR15rygpGJgCWtgJWBjUAfKDm2BrfDqodqg0LaXkup3FNC4boAnMFHNRaXyhTnB7j52mfDn+SuAORZg+9pD/AAeoCAqvAAAAA==[0m[Pipeline] checkout
-[2020-08-17T12:53:42.129Z] No credentials specified
-[2020-08-17T12:53:42.130Z]  > git rev-parse --is-inside-work-tree # timeout=10
-[2020-08-17T12:53:42.160Z] Fetching changes from the remote Git repository
-[2020-08-17T12:53:42.160Z]  > git config remote.origin.url https://github.com/TechnologyBootCamps/functional-assurance # timeout=10
-[2020-08-17T12:53:42.176Z] Fetching upstream changes from https://github.com/TechnologyBootCamps/functional-assurance
-[2020-08-17T12:53:42.177Z]  > git --version # timeout=10
-[2020-08-17T12:53:42.191Z]  > git --version # 'git version 2.21.1 (Apple Git-122.3)'
-[2020-08-17T12:53:42.191Z]  > git fetch --tags --force --progress -- https://github.com/TechnologyBootCamps/functional-assurance +refs/heads/*:refs/remotes/origin/* # timeout=10
-[2020-08-17T12:53:43.408Z]  > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
-[2020-08-17T12:53:43.424Z]  > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
-[2020-08-17T12:53:43.440Z] Checking out Revision 6feb79011bc4c3a8904be06a48a45e49c42b09b0 (refs/remotes/origin/master)
-[2020-08-17T12:53:43.440Z]  > git config core.sparsecheckout # timeout=10
-[2020-08-17T12:53:43.457Z]  > git checkout -f 6feb79011bc4c3a8904be06a48a45e49c42b09b0 # timeout=10
-[2020-08-17T12:53:43.488Z] Commit message: "Update ShopAddressPage.java"
-[2020-08-17T12:53:43.489Z]  > git rev-list --no-walk 6feb79011bc4c3a8904be06a48a45e49c42b09b0 # timeout=10
-[8mha:////4GwbAba2rFIpeW1TSTDUrxhJg13HrUI6dP/hzHTzdYpIAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKBDglR0VppeIFJjHFi3QX7QlLxIr7GH4iIRMVWO9PM641lijhydKqx1HpKlVdd6N301MCxvQYeVMMXVTElDlaVdii5tqcZSxaLeVmOhcbKUhU4eXKCtW7MwxTBkCvOEid30Mh9fccTmZ7KYqJ8YYzY3Po6Mf06fwMYu06Q77aCbP8Brmfz270AAAA=[0m[Pipeline] }
-[8mha:////4DQbg+BLNt3dXVFhaXqqSjaw0OOw64T94hlkPVk0Gl+gAAAAox+LCAAAAAAAAP9tjTESgjAQRT84FraWHiIMlYVjZZuh8QQRYgxkdjFZhMoTeTXvICMzVv7qv9e81xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0gL0tBtv8Aj1Msdr0AAAA=[0m[Pipeline] // stage
-[8mha:////4OuUKdneJzm5dF327EOqRbg9lRPkwi3XW0ioHv2Syu5TAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjKGgQFa3lhheY2Bgn1l2wLyQVL+Jr/IFAJCq22llpNc8XlDnBgZKXjcM2YK6D7GLvpyYHSu0l0iAbOsuaMFN0UrtBk3XHGTWxgzmigIWCpcM6Ug7oGVaqMXdTRYO+OnGatr2CItgbPECoycwm8RfGBOtrbzPhz/NXAGPHIHYMxWb7OZZvfPyORMEAAAA=[0m[Pipeline] stage
-[8mha:////4AF6HscB7S3ghjX1mSYOxZbWiSMpoowAXx7rljmaC3BXAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUwIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLdfrbD/Cw+y7kUycIAAAA=[0m[Pipeline] { (Run Selenium Grid)
-[8mha:////4KVQbRpxsSBNloPnp5Kss5dpQ4gKcYhkEkz4YPLrBceUAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUCDbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxAbNWnxXCAAAA[0m[Pipeline] dir
-[2020-08-17T12:53:43.636Z] Running in /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/SeleniumGridContainerUsingDockerCompose/RunSeleniumGridContainerUsingDockerCompose/dockersample/selenium-test-hub-and-grid-compose
-[8mha:////4L0vlxs6xGIIIbuw0BiY5HefK6tqjZ9NKlDuSnE90UhSAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUSDAhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD5WQ+PfCAAAA[0m[Pipeline] {
-[8mha:////4JVrd1jM59YO3dQnhfDvV1Q12WaSXXI1b17QvYWTRWQMAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiCmgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHN7LjSKW+AAAA[0m[Pipeline] sh
-[2020-08-17T12:53:44.020Z] ++ docker ps -a -q
-[2020-08-17T12:53:44.020Z] + docker rm -f 709148cae47b 64d8dcd2574d d943b9bded7a 95223643fea1 4d70e78f90c5 7b0fd46ebc86 04154136cf2b b220e80001db
-[2020-08-17T12:53:44.740Z] 709148cae47b
-[2020-08-17T12:53:44.740Z] 64d8dcd2574d
-[2020-08-17T12:53:44.740Z] d943b9bded7a
-[2020-08-17T12:53:44.740Z] 95223643fea1
-[2020-08-17T12:53:44.740Z] 4d70e78f90c5
-[2020-08-17T12:53:44.740Z] 7b0fd46ebc86
-[2020-08-17T12:53:45.065Z] 04154136cf2b
-[2020-08-17T12:53:45.065Z] b220e80001db
-[2020-08-17T12:53:45.065Z] + docker-compose up -d
-[2020-08-17T12:53:46.199Z] Creating selenium-hub ... 
-[2020-08-17T12:53:46.897Z] [1A[2KCreating selenium-hub ... [32mdone[0m[1BCreating selenium-test-hub-and-grid-compose_chrome_1 ... 
-[2020-08-17T12:53:46.897Z] Creating selenium-test-hub-and-grid-compose_firefox_1 ... 
-[2020-08-17T12:53:47.597Z] [1A[2KCreating selenium-test-hub-and-grid-compose_firefox_1 ... [32mdone[0m[1B[2A[2KCreating selenium-test-hub-and-grid-compose_chrome_1  ... [32mdone[0m[2B
-[8mha:////4GRAosP4HvMVMgdCpdv18eubGBV1/5xA1gcBMNMuWEyIAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiCkSBqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQGOY4V7vgAAAA==[0m[Pipeline] }
-[8mha:////4HfZUNu7GS1pHbUcSYV9Cri0/YzQyLNF8lTmhXC40FA5AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiJAokRJXWcsMLTGyME+vO2A5JxYv4Gn8gEImKLVY728zzBcsU4cjRYmuoc5Qah8H3dlo4cOwungds+YwNU2JvUJpBsjb1jJKzgTlFCQsBK0ON5+TIZliLVt1V5RXZ6pTj9B0ElE7f4AGFmMxZxfyFMcLm2uvE9PP8FcAYQoZyu//U7g3N4dT9vgAAAA==[0m[Pipeline] // dir
-[8mha:////4DM+LEpRndfqulXcOWvtw1Ceb4kU4LIecZ+S93PyZUBCAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiRIUQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7N8un7Ki+AAAA[0m[Pipeline] }
-[8mha:////4LLe98V9k2nJN+Bi4W6GVnJq/pVufoMBtgA6tg0okd5GAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICaRFVWisNLzCxMU6sO2M7JBUv4mv8AYtIVGyx2tlmXm9YxwAnDgZ7TYOl2Fn0bjR54cRhuDqesOcLdkyRncZWTy0r3SzYctKwpChhJWCjqXMcLZkEW9HLh6ycJFOdU8jfUUBp1R2eUIhsTjKkL8wBdrdRRaaf568AZu8TlPU+16H+AAjcDMm+AAAA[0m[Pipeline] // stage
-[8mha:////4CHatpqIA+GOIeJEPVvuxelXiqZ+Z4USFJrNWxsg8z26AAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjKGgQFa3lhheY2Bgn1l2wLyQVL+Jr/IFAJCq22llpNc8XlDnBgZKXjcM2YK6D7GLvpyYHSu0l0iAbOsuaMFN0UrtBk3XHGTWxgzmigIWCpcM6Ug7oGVaqMXdTRYO+OnGatr2CItgbPECoycwm8RfGBOtrbzPhz/NXAGPHIHYMxXbzOZZvT5Ty88EAAAA=[0m[Pipeline] stage
-[8mha:////4ILPzo2l6bsSBw0zq3QqqCJ96DbIKx6SVe8o7AsnaK+AAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycohUdEVMrFEXThCaEJJG/7dJSjpxIq7GHWipxIQHy7ZkvdcbyhjgRMFwp7GzGFvLez+aOfFMobt5ytzRlbeEkbzmjc4NKX1ea0NJw6qCwUbAVmPrKVo0CXbCyYesvERTXVKYt6MAZtUATyjETE4ypG+ZAuzvo4qEP85fAEx9AlYfFquXZ/kBAsTc3cIAAAA=[0m[Pipeline] { (Increase Browser Instances)
-[8mha:////4KU3GPGv8BehiTPkkQw2bXsvc26j5b5VLYXpNlFIP2ofAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUKiNiYo2ycILQhJA0+r9NUtKJE3E17kBLJSY8WLYl673eUMUAJwqGOY2dxdha1vvRzIllCt3NU2aOrqwljOQ1EzoLUvq8VkFJw6qihA2HrcbWU7RoEuy4kw9Ze4mmvqQwb0cOpVUDPKHgMznJkL5lCrC/jyoS/jh/ATD1CcqmWeywPKsPpnFij8IAAAA=[0m[Pipeline] dir
-[2020-08-17T12:53:47.742Z] Running in /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/SeleniumGridContainerUsingDockerCompose/RunSeleniumGridContainerUsingDockerCompose/dockersample/selenium-test-hub-and-grid-compose
-[8mha:////4Ag9F90DqJdn0dmCfOWe3UsihD8mtohGGPSdqJb9S8LUAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUAjbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxAd6e6VPCAAAA[0m[Pipeline] {
-[8mha:////4BWz4+OUD+LCoHjEVQM8mvmFl2ED9q1sCAlTzuGIHKDhAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiIagQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHN38C26S+AAAA[0m[Pipeline] sh
-[2020-08-17T12:53:48.123Z] + docker-compose up -d --scale chrome=3 --scale firefox=2
-[2020-08-17T12:53:48.821Z] selenium-hub is up-to-date
-[2020-08-17T12:53:48.821Z] Starting selenium-test-hub-and-grid-compose_firefox_1 ... 
-[2020-08-17T12:53:48.821Z] Starting selenium-test-hub-and-grid-compose_chrome_1  ... 
-[2020-08-17T12:53:48.821Z] [2A[2KStarting selenium-test-hub-and-grid-compose_firefox_1 ... [32mdone[0m[2B[1A[2KStarting selenium-test-hub-and-grid-compose_chrome_1  ... [32mdone[0m[1BCreating selenium-test-hub-and-grid-compose_chrome_2  ... 
-[2020-08-17T12:53:48.821Z] Creating selenium-test-hub-and-grid-compose_chrome_3  ... 
-[2020-08-17T12:53:48.821Z] Creating selenium-test-hub-and-grid-compose_firefox_2 ... 
-[2020-08-17T12:53:49.844Z] [2A[2KCreating selenium-test-hub-and-grid-compose_chrome_3  ... [32mdone[0m[2B[3A[2KCreating selenium-test-hub-and-grid-compose_chrome_2  ... [32mdone[0m[3B[1A[2KCreating selenium-test-hub-and-grid-compose_firefox_2 ... [32mdone[0m[1B+ docker-compose up -d --scale chrome=10 --scale firefox=5
-[2020-08-17T12:53:50.980Z] selenium-hub is up-to-date
-[2020-08-17T12:53:50.980Z] Starting selenium-test-hub-and-grid-compose_chrome_1 ... 
-[2020-08-17T12:53:50.980Z] Starting selenium-test-hub-and-grid-compose_chrome_2 ... 
-[2020-08-17T12:53:50.980Z] Starting selenium-test-hub-and-grid-compose_firefox_1 ... 
-[2020-08-17T12:53:50.980Z] Starting selenium-test-hub-and-grid-compose_chrome_3  ... 
-[2020-08-17T12:53:50.980Z] Starting selenium-test-hub-and-grid-compose_firefox_2 ... 
-[2020-08-17T12:53:50.980Z] [1A[2KStarting selenium-test-hub-and-grid-compose_firefox_2 ... [32mdone[0m[1B[4A[2KStarting selenium-test-hub-and-grid-compose_chrome_2  ... [32mdone[0m[4B[2A[2KStarting selenium-test-hub-and-grid-compose_firefox_1 ... [32mdone[0m[2B[3A[2KStarting selenium-test-hub-and-grid-compose_chrome_3  ... [32mdone[0m[3B[5A[2KStarting selenium-test-hub-and-grid-compose_chrome_1  ... [32mdone[0m[5BCreating selenium-test-hub-and-grid-compose_firefox_3 ... 
-[2020-08-17T12:53:50.980Z] Creating selenium-test-hub-and-grid-compose_firefox_4 ... 
-[2020-08-17T12:53:50.980Z] Creating selenium-test-hub-and-grid-compose_firefox_5 ... 
-[2020-08-17T12:53:50.980Z] Creating selenium-test-hub-and-grid-compose_chrome_4  ... 
-[2020-08-17T12:53:50.980Z] Creating selenium-test-hub-and-grid-compose_chrome_5  ... 
-[2020-08-17T12:53:50.980Z] Creating selenium-test-hub-and-grid-compose_chrome_6  ... 
-[2020-08-17T12:53:50.980Z] Creating selenium-test-hub-and-grid-compose_chrome_7  ... 
-[2020-08-17T12:53:50.980Z] Creating selenium-test-hub-and-grid-compose_chrome_8  ... 
-[2020-08-17T12:53:50.980Z] Creating selenium-test-hub-and-grid-compose_chrome_9  ... 
-[2020-08-17T12:53:50.980Z] Creating selenium-test-hub-and-grid-compose_chrome_10 ... 
-[2020-08-17T12:53:54.524Z] [8A[2KCreating selenium-test-hub-and-grid-compose_firefox_5 ... [32mdone[0m[8B[9A[2KCreating selenium-test-hub-and-grid-compose_firefox_4 ... [32mdone[0m[9B[10A[2KCreating selenium-test-hub-and-grid-compose_firefox_3 ... [32mdone[0m[10B[5A[2KCreating selenium-test-hub-and-grid-compose_chrome_6  ... [32mdone[0m[5B[6A[2KCreating selenium-test-hub-and-grid-compose_chrome_5  ... [32mdone[0m[6B[1A[2KCreating selenium-test-hub-and-grid-compose_chrome_10 ... [32mdone[0m[1B[3A[2KCreating selenium-test-hub-and-grid-compose_chrome_8  ... [32mdone[0m[3B[2A[2KCreating selenium-test-hub-and-grid-compose_chrome_9  ... [32mdone[0m[2B[7A[2KCreating selenium-test-hub-and-grid-compose_chrome_4  ... [32mdone[0m[7B[4A[2KCreating selenium-test-hub-and-grid-compose_chrome_7  ... [32mdone[0m[4B
-[8mha:////4EYTkeudF/nkpOqKHgAowtcoc/TqXGZIJYX0dXgVEUX1AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiIUSDqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQHjyRvdvgAAAA==[0m[Pipeline] }
-[8mha:////4AOWkau31nnrWyqqLepIf5cN1NmfbXF/zpCwsx3TyDSTAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiQUGBqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQHljyOIvgAAAA==[0m[Pipeline] // dir
-[8mha:////4ID8wkyru1e2csLJ/LghOyB330amochx/NE5+tEygyReAAAApB+LCAAAAAAAAP9tjbEOwiAURV9rHFwd/QiadDIxTq6ExS/AFhFK3qNApZNf5K/5D6JNnLzDzT13Oc8XrGOAIwXNrMLBYOwM827SZbFMYbg6yszShXWEkZxiQmVBvTotKCgpWFLVsOKwUdg5igZ1gi238i4bJ1E35xTKd+BQm36EB1S8mJMM6QtzgN1t6iPhz/NXALP3Cep2/6n2DaYNcg6+AAAA[0m[Pipeline] }
-[8mha:////4F1zWJJ9cRf8GmU8Oi/3Ia+1u41M/BblitJkklaXNsgAAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIi6BCiSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nbf2r7BrmPJ1y+AAAA[0m[Pipeline] // stage
-[8mha:////4GHOdk0GU72MB3p2IEwjFTPQ/bHQo1fbjdnUV7aBaAy/AAAApx+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYSDhESDqGgtN7zAxMY4se6CfSGpeBFf4w8EIlGx1c5Kq3m+oMwJDpS8bBy2AXMdZBd7PzU5UGovkQbZ0FnWhJmik9oNmqw7zqiJHcwRBSwULB3WkXJAz7BSjbmbKhr01YnTtO0VFMHe4AFCTWY2ib8wJlhfe5sJf56/Ahg7BrFjKLabz7F8A15M2Z7BAAAA[0m[Pipeline] stage
-[8mha:////4MnPo/Whg0LeKqcgR5b+rib6beo97iGWH8uWrWJ5RYDDAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUxIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLDbrb9/Cw+ty4Up8IAAAA=[0m[Pipeline] { (Execute Scripts)
-[8mha:////4IRt9rk9ZTsbfc8Q78vILT1i3oXFoMztIZmDs2glyO19AAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIioERUaS03vMDExjix7oztkFS8iK/xBwKRqNhitbPNPF+wTBGOHC22hjpHqXEYfG+nhQPH7uJ5wJbP2DAl9galGSRrU88oORuYU5SwELAy1HhOjmyGtWjVXVVeka1OOU7fQUDp9A0eUIjJnFXMXxgjbK69Tkw/z18BjCFDud9+ahfettHKdL4AAAA=[0m[Pipeline] sh
-[2020-08-17T12:53:55.178Z] + mvn clean test '-Dcucumber.options=--tags '\''@UITest and @Smoke'\''' -DexecutionPlatform=GRID_CHROME
-[2020-08-17T12:53:58.919Z] [INFO] Scanning for projects...
-[2020-08-17T12:53:58.919Z] [INFO] 
-[2020-08-17T12:53:58.919Z] [INFO] ---------< org.example:awsworkshop_test_functional_assurance >----------
-[2020-08-17T12:53:58.919Z] [INFO] Building awsworkshop_test_functional_assurance 1.0-SNAPSHOT
-[2020-08-17T12:53:58.919Z] [INFO] --------------------------------[ jar ]---------------------------------
-[2020-08-17T12:53:59.993Z] [INFO] 
-[2020-08-17T12:53:59.993Z] [INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ awsworkshop_test_functional_assurance ---
-[2020-08-17T12:53:59.993Z] [INFO] 
-[2020-08-17T12:53:59.993Z] [INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ awsworkshop_test_functional_assurance ---
-[2020-08-17T12:54:00.316Z] [WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
-[2020-08-17T12:54:00.316Z] [INFO] skip non existing resourceDirectory /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/SeleniumGridContainerUsingDockerCompose/RunSeleniumGridContainerUsingDockerCompose/src/main/resources
-[2020-08-17T12:54:00.316Z] [INFO] 
-[2020-08-17T12:54:00.316Z] [INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ awsworkshop_test_functional_assurance ---
-[2020-08-17T12:54:00.941Z] [INFO] No sources to compile
-[2020-08-17T12:54:00.941Z] [INFO] 
-[2020-08-17T12:54:00.941Z] [INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ awsworkshop_test_functional_assurance ---
-[2020-08-17T12:54:00.941Z] [WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
-[2020-08-17T12:54:00.941Z] [INFO] Copying 11 resources
-[2020-08-17T12:54:00.941Z] [INFO] 
-[2020-08-17T12:54:00.941Z] [INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ awsworkshop_test_functional_assurance ---
-[2020-08-17T12:54:00.941Z] [INFO] Changes detected - recompiling the module!
-[2020-08-17T12:54:00.941Z] [INFO] Compiling 12 source files to /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/SeleniumGridContainerUsingDockerCompose/RunSeleniumGridContainerUsingDockerCompose/target/test-classes
-[2020-08-17T12:54:02.499Z] [INFO] 
-[2020-08-17T12:54:02.499Z] [INFO] --- maven-surefire-plugin:3.0.0-M4:test (default-test) @ awsworkshop_test_functional_assurance ---
-[2020-08-17T12:54:03.197Z] [INFO] 
-[2020-08-17T12:54:03.197Z] [INFO] -------------------------------------------------------
-[2020-08-17T12:54:03.197Z] [INFO]  T E S T S
-[2020-08-17T12:54:03.197Z] [INFO] -------------------------------------------------------
-[2020-08-17T12:54:03.898Z] [INFO] Running runner.TestsRunner
-[2020-08-17T12:54:05.028Z] 18:24:04  INFO: runner.TestsRunner - ########### INSIDE BEFORE CLASS ###########
-[2020-08-17T12:54:05.350Z] 18:24:05  INFO: stepdefinitions.MasterStepDefs - Starting - E-Shop Application - Create New Account
-[2020-08-17T12:54:05.672Z] Aug 17, 2020 6:24:05 PM org.openqa.selenium.remote.DesiredCapabilities chrome
-[2020-08-17T12:54:05.673Z] INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
-[2020-08-17T12:54:10.390Z] Aug 17, 2020 6:24:10 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-[2020-08-17T12:54:10.390Z] INFO: Detected dialect: W3C
-[2020-08-17T12:54:10.713Z] 18:24:10  INFO: stepdefinitions.MasterStepDefs - UI URL Fetched from POM Settings
-[2020-08-17T12:54:10.713Z] 18:24:10  INFO: stepdefinitions.MasterStepDefs - ApplicationUrl : http://awswrkshpalb-1570520390.us-west-2.elb.amazonaws.com:3000
-[2020-08-17T12:54:26.500Z] 18:24:24  INFO: stepdefinitions.MasterStepDefs - E-Shop Application - Create New Account Status - FAILED
-[2020-08-17T12:54:26.501Z] 18:24:24  INFO: stepdefinitions.MasterStepDefs - ######### Count of FAILED #########
-[2020-08-17T12:54:26.501Z] 18:24:24  INFO: stepdefinitions.MasterStepDefs - 1
-[2020-08-17T12:54:26.501Z] 18:24:24  INFO: stepdefinitions.MasterStepDefs - ######### Count of Failed #########
-[2020-08-17T12:54:26.501Z] 
-[2020-08-17T12:54:26.501Z] Failed scenarios:
-[2020-08-17T12:54:26.501Z] src/test/resources/features/Web01_EShopLogin.feature:12 # E-Shop Application - Create New Account
-[2020-08-17T12:54:26.501Z] 
-[2020-08-17T12:54:26.501Z] 1 Scenarios (1 failed)
-[2020-08-17T12:54:26.501Z] 3 Steps (1 failed, 1 skipped, 1 passed)
-[2020-08-17T12:54:26.501Z] 0m20.062s
-[2020-08-17T12:54:26.501Z] 
-[2020-08-17T12:54:26.501Z] org.openqa.selenium.WebDriverException: unknown error: session deleted because of page crash
-[2020-08-17T12:54:26.501Z] from unknown error: cannot determine loading status
-[2020-08-17T12:54:26.501Z] from tab crashed
-[2020-08-17T12:54:26.501Z]   (Session info: chrome=84.0.4147.105)
-[2020-08-17T12:54:26.501Z] Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-[2020-08-17T12:54:26.501Z] System info: host: 'AnithaMacBook.local', ip: '2409:4072:68c:683b:79a5:8dae:9d83:46e2%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.4', java.version: '1.8.0_201'
-[2020-08-17T12:54:26.501Z] Driver info: org.openqa.selenium.remote.RemoteWebDriver
-[2020-08-17T12:54:26.501Z] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.105, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /tmp/.com.google.Chrome.kJxoCN}, goog:chromeOptions: {debuggerAddress: localhost:36157}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 65f077aa4ea011d88ba65a4465e...}
-[2020-08-17T12:54:26.501Z] Session ID: 65f077aa4ea011d88ba65a4465e2055f
-[2020-08-17T12:54:26.501Z] *** Element info: {Using=xpath, value=//span[contains(text(),'Create Your E-Shop Account')]}
-[2020-08-17T12:54:26.501Z] 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-[2020-08-17T12:54:26.501Z] 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-[2020-08-17T12:54:26.501Z] 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-[2020-08-17T12:54:26.501Z] 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
-[2020-08-17T12:54:26.520Z] 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-[2020-08-17T12:54:26.520Z] 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-[2020-08-17T12:54:26.520Z] 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-[2020-08-17T12:54:26.520Z] 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-[2020-08-17T12:54:26.520Z] 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-[2020-08-17T12:54:26.520Z] 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-[2020-08-17T12:54:26.520Z] 	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-[2020-08-17T12:54:26.520Z] 	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-[2020-08-17T12:54:26.520Z] 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-[2020-08-17T12:54:26.520Z] 	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
-[2020-08-17T12:54:26.520Z] 	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
-[2020-08-17T12:54:26.520Z] 	at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:641)
-[2020-08-17T12:54:26.520Z] 	at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:638)
-[2020-08-17T12:54:26.520Z] 	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
-[2020-08-17T12:54:26.520Z] 	at pages.ShopLoginPage.clickCreateAccount(ShopLoginPage.java:133)
-[2020-08-17T12:54:26.520Z] 	at stepdefinitions.WebEShopStepDefs.user_create_account_with_and(WebEShopStepDefs.java:50)
-[2020-08-17T12:54:26.520Z] 	at ✽.User create account with "test", "user", "testuser@shop.com" and "Testing$1"(file:src/test/resources/features/Web01_EShopLogin.feature:7)
-[2020-08-17T12:54:26.520Z] 
-[2020-08-17T12:54:26.520Z] 18:24:25  INFO: runner.TestsRunner - ########### INSIDE AFTER CLASS ###########
-[2020-08-17T12:54:26.520Z] [ERROR] Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 21.185 s <<< FAILURE! - in runner.TestsRunner
-[2020-08-17T12:54:26.520Z] [ERROR] Mythical Mysfits Eshop UI login feature.E-Shop Application - Create New Account  Time elapsed: 19.634 s  <<< ERROR!
-[2020-08-17T12:54:26.520Z] org.openqa.selenium.WebDriverException: 
-[2020-08-17T12:54:26.520Z] unknown error: session deleted because of page crash
-[2020-08-17T12:54:26.520Z] from unknown error: cannot determine loading status
-[2020-08-17T12:54:26.520Z] from tab crashed
-[2020-08-17T12:54:26.520Z]   (Session info: chrome=84.0.4147.105)
-[2020-08-17T12:54:26.520Z] Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-[2020-08-17T12:54:26.520Z] System info: host: 'AnithaMacBook.local', ip: '2409:4072:68c:683b:79a5:8dae:9d83:46e2%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.4', java.version: '1.8.0_201'
-[2020-08-17T12:54:26.520Z] Driver info: org.openqa.selenium.remote.RemoteWebDriver
-[2020-08-17T12:54:26.520Z] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.105, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /tmp/.com.google.Chrome.kJxoCN}, goog:chromeOptions: {debuggerAddress: localhost:36157}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 65f077aa4ea011d88ba65a4465e...}
-[2020-08-17T12:54:26.520Z] Session ID: 65f077aa4ea011d88ba65a4465e2055f
-[2020-08-17T12:54:26.520Z] *** Element info: {Using=xpath, value=//span[contains(text(),'Create Your E-Shop Account')]}
-[2020-08-17T12:54:26.520Z] 
-[2020-08-17T12:54:26.520Z] [INFO] 
-[2020-08-17T12:54:26.520Z] [INFO] Results:
-[2020-08-17T12:54:26.520Z] [INFO] 
-[2020-08-17T12:54:26.520Z] [ERROR] Errors: 
-[2020-08-17T12:54:26.520Z] [ERROR]   unknown error: session deleted because of page crash
-[2020-08-17T12:54:26.520Z] from unknown error: cannot determine loading status
-[2020-08-17T12:54:26.520Z] from tab crashed
-[2020-08-17T12:54:26.520Z]   (Session info: chrome=84.0.4147.105)
-[2020-08-17T12:54:26.520Z] Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-[2020-08-17T12:54:26.520Z] System info: host: 'AnithaMacBook.local', ip: '2409:4072:68c:683b:79a5:8dae:9d83:46e2%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.4', java.version: '1.8.0_201'
-[2020-08-17T12:54:26.520Z] Driver info: org.openqa.selenium.remote.RemoteWebDriver
-[2020-08-17T12:54:26.520Z] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.105, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /tmp/.com.google.Chrome.kJxoCN}, goog:chromeOptions: {debuggerAddress: localhost:36157}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 65f077aa4ea011d88ba65a4465e...}
-[2020-08-17T12:54:26.520Z] Session ID: 65f077aa4ea011d88ba65a4465e2055f
-[2020-08-17T12:54:26.520Z] *** Element info: {Using=xpath, value=//span[contains(text(),'Create Your E-Shop Account')]}
-[2020-08-17T12:54:26.520Z] [INFO] 
-[2020-08-17T12:54:26.520Z] [ERROR] Tests run: 1, Failures: 0, Errors: 1, Skipped: 0
-[2020-08-17T12:54:26.520Z] [INFO] 
-[2020-08-17T12:54:26.520Z] [INFO] ------------------------------------------------------------------------
-[2020-08-17T12:54:26.520Z] [INFO] BUILD FAILURE
-[2020-08-17T12:54:26.520Z] [INFO] ------------------------------------------------------------------------
-[2020-08-17T12:54:26.520Z] [INFO] Total time:  27.947 s
-[2020-08-17T12:54:26.520Z] [INFO] Finished at: 2020-08-17T18:24:26+05:30
-[2020-08-17T12:54:26.520Z] [INFO] ------------------------------------------------------------------------
-[2020-08-17T12:54:26.520Z] [ERROR] Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:3.0.0-M4:test (default-test) on project awsworkshop_test_functional_assurance: There are test failures.
-[2020-08-17T12:54:26.520Z] [ERROR] 
-[2020-08-17T12:54:26.520Z] [ERROR] Please refer to /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/SeleniumGridContainerUsingDockerCompose/RunSeleniumGridContainerUsingDockerCompose/target/surefire-reports for the individual test results.
-[2020-08-17T12:54:26.520Z] [ERROR] Please refer to dump files (if any exist) [date].dump, [date]-jvmRun[N].dump and [date].dumpstream.
-[2020-08-17T12:54:26.520Z] [ERROR] -> [Help 1]
-[2020-08-17T12:54:26.520Z] [ERROR] 
-[2020-08-17T12:54:26.520Z] [ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
-[2020-08-17T12:54:26.520Z] [ERROR] Re-run Maven using the -X switch to enable full debug logging.
-[2020-08-17T12:54:26.520Z] [ERROR] 
-[2020-08-17T12:54:26.520Z] [ERROR] For more information about the errors and possible solutions, please read the following articles:
-[2020-08-17T12:54:26.520Z] [ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
-[8mha:////4Kl/oNy0W1jtYvWMc23ktYv8cNdcS7ebYccYWQFkCOxOAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIilBJR0VppeIFJjLFj3Tm2g1PxIr7GHwhEomKL1c4283zBOgY4ctBoFfWGYmvQu1HPCzOH/uo4o+ULtkyRncJG5YY7dVqw4aRgSVHCSsBGUes4GtIJtsLKu6ycJF2dU5i/g4DSdAM8oBCzOcmQvjAF2N3GLjL9PH8FMHmfoKzrT+3fKpbQQr4AAAA=[0m[Pipeline] }
-[8mha:////4HFxPQC2PNk18ewNvO/sbANm7R7gkvsAnGoSaeBOiqnzAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCBB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nbf2r7BgSW0ii+AAAA[0m[Pipeline] // stage
-[8mha:////4DMtwtGrhryWTZWAyaGxEhBSvp0Uz68pNJVQlESNBFsKAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIpEDSIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfLsTZPsP0mRjub0AAAA=[0m[Pipeline] }
-[8mha:////4Fdj8bevYlI6lr3tblJlBskxJHA6XQmTwNhdQgKJAsVBAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIpEDSIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfLsXZLsPuE/KZ70AAAA=[0m[Pipeline] // node
-[8mha:////4ImQbTv9Ww6joLhcmZDfKn+Af2lLiVXbDigpDZSeJqjYAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIpQKJAVLRWGl5gEmOcWHfBvpBUvIiv8QciIlGx1c4083pjmSKOHJ1qLLWeUuVVF3o3PTVwbK+BB9XwRVVMiYNVpR1Kru1pxpLFYl6WY6GxslQFTp6cYK0b8zBFMOSKs8TJHTRyX9/xRKanspgoXxgjNre+Tky/zt8Axq4T5Nu9INt9AJ5WrS29AAAA[0m[Pipeline] }
-[8mha:////4LE1mdaox2qoHBDbZ4XDT5SfqSNrIaVnHbbQF03UVcs4AAAAox+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6IMLCbGybVh8Qsq1Fpo3sP2IUx+kb/mP0gkcfJO95zlvN5Yp4gjR6daS52nVHvVh8HNT40cu2vgUbV8UTVT4mBVZceKG3tasGKxWJblWGlsLNWBkycn2OrWPEwRDLniLHF2B43cN3c8kem5LCbKF6aI3W1oEtOv8zeAqe8FebkXZOUH7FSZMb0AAAA=[0m[Pipeline] // timestamps
-[8mha:////4LJQanhpgk9lr99Fwn3g+DxrHCGSF/bzdiXDWcLam4kjAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKRoEKIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfLcXZNsPyk3+e70AAAA=[0m[Pipeline] End of Pipeline
-ERROR: script returned exit code 1
-Finished: FAILURE

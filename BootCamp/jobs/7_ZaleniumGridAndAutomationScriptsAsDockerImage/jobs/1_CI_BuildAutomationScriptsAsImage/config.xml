@@ -1,0 +1,46 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<flow-definition plugin="workflow-job@2.39">
+  <actions/>
+  <description></description>
+  <keepDependencies>false</keepDependencies>
+  <properties>
+    <hudson.plugins.jira.JiraProjectProperty plugin="jira@3.1.1"/>
+    <org.jenkinsci.plugins.workflow.job.properties.PipelineTriggersJobProperty>
+      <triggers>
+        <hudson.triggers.SCMTrigger>
+          <spec>H/1 * * * *</spec>
+          <ignorePostCommitHooks>false</ignorePostCommitHooks>
+        </hudson.triggers.SCMTrigger>
+      </triggers>
+    </org.jenkinsci.plugins.workflow.job.properties.PipelineTriggersJobProperty>
+  </properties>
+  <definition class="org.jenkinsci.plugins.workflow.cps.CpsFlowDefinition" plugin="workflow-cps@2.82">
+    <script>node () {
+	stage (&apos;Git Checkout&apos;) {
+ 	 checkout([$class: &apos;GitSCM&apos;, branches: [[name: &apos;*/selenium-test-compose&apos;]], doGenerateSubmoduleConfigurations: false, extensions: [], submoduleCfg: [], userRemoteConfigs: [[credentialsId: &apos;&apos;, url: &apos;https://github.com/TechnologyBootCamps/functional-assurance&apos;]]])
+	}
+	stage (&apos;Validate Scripts&apos;) {
+	        if (isUnix()) {
+                sh (/mvn clean compile/)
+	        }
+	        else
+	        {
+	            bat(/mvn clean compile/)
+	        }
+	}
+	stage (&apos;Build Image&apos;) {
+	    if (isUnix()) {
+                sh (/docker build -t selenium-test ./)
+	        }
+	        else
+	        {
+	            bat (/docker build -t selenium-test ./)
+	        }
+	}
+}
+</script>
+    <sandbox>true</sandbox>
+  </definition>
+  <triggers/>
+  <disabled>false</disabled>
+</flow-definition>

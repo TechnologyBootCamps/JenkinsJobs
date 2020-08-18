@@ -1,0 +1,167 @@
+Started by user [8mha:////4Dta+V6pPCd2bQXU7xodkoAapf5AUbFr+iWvs1gFwt+2AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgZu/dLi1CL9xJTczDwAg9OS0cAAAAA=[0mMohanraj
+Running in Durability level: MAX_SURVIVABILITY
+[8mha:////4Io3E4We+CAl7jv989eAwmwVx2sNXoyXfn9MGqEG3DLoAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4LrHOWWpFasz1BlZLNtwL76kzyfYqMPVnHVNApAom7GRAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4FxTFt9xxGg0KKd84qY8pyrCux2heOLDMVrEh/+szOxMAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZh/eT83ILSktQifY3cxGIgrakPAHib2iPIAAAA[0mJenkins in /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/SeleniumGridContainerUsingDockerCompose/RunSeleniumGridContainerUsingDockerCompose
+[8mha:////4HaYiWs6JAqMt1wrMv1DY8AmvYns+FZKxC+aXqbG5PUXAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4HafEVhaQHlLYoj0MGjEhPNF71xMtXv1w2TpkvE4wGPTAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4E77uw0ArmfRAQRzhwk7MP/vxfU47zsF6e6gTYkn5GO3AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (Git Checkout)
+[8mha:////4Bv8ofXiRzgWi9tNmVadlo7Da6324EXtC7TLvPzTv9KgAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] checkout
+No credentials specified
+ > git rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/TechnologyBootCamps/functional-assurance # timeout=10
+Fetching upstream changes from https://github.com/TechnologyBootCamps/functional-assurance
+ > git --version # timeout=10
+ > git --version # 'git version 2.21.1 (Apple Git-122.3)'
+ > git fetch --tags --force --progress -- https://github.com/TechnologyBootCamps/functional-assurance +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision 6feb79011bc4c3a8904be06a48a45e49c42b09b0 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 6feb79011bc4c3a8904be06a48a45e49c42b09b0 # timeout=10
+Commit message: "Update ShopAddressPage.java"
+ > git rev-list --no-walk 6feb79011bc4c3a8904be06a48a45e49c42b09b0 # timeout=10
+[8mha:////4A6lu4JF0LNgRsGUgPwIW2e9i6j6ypTKOVH5sR+Z8mALAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9Dg2gqvAAAAA==[0m[Pipeline] }
+[8mha:////4NfMQX7WQoSaTs2lHbYpPzpWtGm9QRwTEhQdrLM42XuwAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQRbWRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9J+wGOvAAAAA==[0m[Pipeline] // stage
+[8mha:////4PpqWWR1yKpEUCPO32uXZNvV1jp4J0ck+2VZuGgupb/CAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQDEh2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INtuQqUcEAAAA=[0m[Pipeline] stage
+[8mha:////4EmJH+eKtz6J8FadoCcltg0D239SOuSIdsm6bP3mFDcNAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycoiUzoiJNerCCUITQtLo/zZJSSdOxNW4Ay2VmPBg2Zas93pDGQOcKBjuNHYWY2t570czJ54pdDdPmTu68pYwkte80bkhpc9rbShpWFUw2AjYamw9RYsmwU44+ZCVl2iqSwrzdhTArBrgCYWYyUmG9C1TgP19VJHwx/kLgKlPwOrDYvXyLD8BobDcwgAAAA==[0m[Pipeline] { (Run Selenium Grid)
+[8mha:////4EgBhXJxKDd6HK+6lpJVW5AKoJjgQKDS/q2bUvHQVF1LAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUZUVMrFEWThCaEJJG/7dJSjpxIq7GHWipxIQHy7ZkvdcbqhjgRMEwp7GzGFvLej+aObFMobt5yszRlbWEkbxmQmdBSp/XKihpWFWUsOGw1dh6ihZNgh138iFrL9HUlxTm7cihtGqAJxR8JicZ0rdMAfb3UUXCH+cvAKY+Qdk0ix2WZ/UBbwyqm8IAAAA=[0m[Pipeline] dir
+Running in /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/SeleniumGridContainerUsingDockerCompose/RunSeleniumGridContainerUsingDockerCompose/dockersample/selenium-test-hub-and-grid-compose
+[8mha:////4AF6HscB7S3ghjX1mSYOxZbWiSMpoowAXx7rljmaC3BXAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUwIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLdfrbD/Cw+y7kUycIAAAA=[0m[Pipeline] {
+[8mha:////4KBj2i2laC3cpX0ieY6lp807K/KUx77M+wJHIemJdCRfAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiBB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyu3uU/vwBgq0rvS+AAAA[0m[Pipeline] isUnix
+[8mha:////4CyTpTyM6Khf1cAYtAuQegrOC/vknqPFtTbxjZf4wsSyAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIihKgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHN0uFte2+AAAA[0m[Pipeline] sh
+++ docker ps -a -q
++ docker rm -f b9b7f41ffdf7 9a962619b116 6aecc83653b6 360145f89f32 070cfe21b915 f0682a50db05 7fdb04bbf521 ab1e19e55128 eecb550cfa6e 257c8a762e83 958eea9c6e38 1e61847e4069 aca474c15abb 21d9205fe986 2fbd5c8fa6e5 ba49c10db90b
+b9b7f41ffdf7
+9a962619b116
+6aecc83653b6
+360145f89f32
+070cfe21b915
+f0682a50db05
+7fdb04bbf521
+ab1e19e55128
+eecb550cfa6e
+257c8a762e83
+958eea9c6e38
+1e61847e4069
+aca474c15abb
+21d9205fe986
+2fbd5c8fa6e5
+ba49c10db90b
++ docker-compose up -d
+Creating selenium-hub ... 
+[1A[2KCreating selenium-hub ... [32mdone[0m[1BCreating selenium-test-hub-and-grid-compose_chrome_1 ... 
+Creating selenium-test-hub-and-grid-compose_firefox_1 ... 
+[2A[2KCreating selenium-test-hub-and-grid-compose_chrome_1  ... [32mdone[0m[2B[1A[2KCreating selenium-test-hub-and-grid-compose_firefox_1 ... [32mdone[0m[1B
+[8mha:////4EosEsDgQXyonzo5aPfQXcy1/2IGqA9rQMPz2UyOIcaVAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIihESDqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQEeFbpZvgAAAA==[0m[Pipeline] }
+[8mha:////4H9mMrzG1uU6OkvC6yTbSBBhdFzwz/ex6FZD0e9MCnuhAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiaCgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7Ny324eW+AAAA[0m[Pipeline] // dir
+[8mha:////4C3AGLJvp60MYYCo87x6eOrfNzLU0Ma+USESnyTqds8fAAAApB+LCAAAAAAAAP9tjbEOwiAURV9rHFwd/QiabibGyZWw+AXYIkLJexSodPKL/DX/QbSJk3e4uecu5/mCdQxwpKCZVTgYjJ1h3k26LJYpDFdHmVm6sI4wklNMqCyoV6cFBSUFS6oaVhw2CjtH0aBOsOVW3mXjJOrmnEL5Dhxq04/wgIoXc5IhfWEOsLtNfST8ef4KYPY+Qd3uP9W+AUIVvo2+AAAA[0m[Pipeline] }
+[8mha:////4C3JUGRCVdGSfQ1ElPspv/Syvhd3Zh+gJ7AwDbyZPaciAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICJUJUaS03vMDExjix7oztkFS8iK/xBwKRqNhitbPNPF+wTBGOHC22hjpHqXEYfG+nhQPH7uJ5wJbP2DAl9galGSRrU88oORuYU5SwELAy1HhOjmyGtWjVXVVeka1OOU7fQUDp9A0eUIjJnFXMXxgjbK69Tkw/z18BjCFkKHf7T23fcfblMb4AAAA=[0m[Pipeline] // stage
+[8mha:////4BvXiB0w6wj21o53nTVEJT/D7vQz2oKGLhxbZuWKFG5pAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYSDEB2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INK/7CYMEAAAA=[0m[Pipeline] stage
+[8mha:////4FFFdYAwsyPJkIMUQkouNat6Hk4QPgijWE1r45HJcCFAAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUWBFT1ygLJwhNCGmj/8tPSjtxIq7GHWipxIQHy7ZkvdcbishwInaisdh6jLUXXejdlMRA3F4DDaKhi6gJIwUrlB0UGVstVVGysCjLYSVhbbEOFD26BBvZ6Icug0ZXnhNP21FC7s0dnpDJiZw0p28ZGba33kTCH+cvAMYuQX7Yzbafn8UHbGnGmsIAAAA=[0m[Pipeline] { (Increase Browser Instances)
+[8mha:////4ILPzo2l6bsSBw0zq3QqqCJ96DbIKx6SVe8o7AsnaK+AAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycohUdEVMrFEXThCaEJJG/7dJSjpxIq7GHWipxIQHy7ZkvdcbyhjgRMFwp7GzGFvLez+aOfFMobt5ytzRlbeEkbzmjc4NKX1ea0NJw6qCwUbAVmPrKVo0CXbCyYesvERTXVKYt6MAZtUATyjETE4ypG+ZAuzvo4qEP85fAEx9AlYfFquXZ/kBAsTc3cIAAAA=[0m[Pipeline] dir
+Running in /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/SeleniumGridContainerUsingDockerCompose/RunSeleniumGridContainerUsingDockerCompose/dockersample/selenium-test-hub-and-grid-compose
+[8mha:////4KU3GPGv8BehiTPkkQw2bXsvc26j5b5VLYXpNlFIP2ofAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUKiNiYo2ycILQhJA0+r9NUtKJE3E17kBLJSY8WLYl673eUMUAJwqGOY2dxdha1vvRzIllCt3NU2aOrqwljOQ1EzoLUvq8VkFJw6qihA2HrcbWU7RoEuy4kw9Ze4mmvqQwb0cOpVUDPKHgMznJkL5lCrC/jyoS/jh/ATD1CcqmWeywPKsPpnFij8IAAAA=[0m[Pipeline] {
+[8mha:////4LO6nsX/Cd9YS8cx7JM0MHNEHtDB5arkcQJ1BkJ3RegLAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiAR2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyu3uU/vwBrANZ3i+AAAA[0m[Pipeline] isUnix
+[8mha:////4Mofvm9OZylA0aBzm35yMhpIcWJippDAgVmkS6gMAlIsAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIigagQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHN/E8fGG+AAAA[0m[Pipeline] sh
++ docker-compose up -d --scale chrome=3 --scale firefox=2
+selenium-hub is up-to-date
+Starting selenium-test-hub-and-grid-compose_chrome_1 ... 
+Starting selenium-test-hub-and-grid-compose_firefox_1 ... 
+[2A[2KStarting selenium-test-hub-and-grid-compose_chrome_1  ... [32mdone[0m[2B[1A[2KStarting selenium-test-hub-and-grid-compose_firefox_1 ... [32mdone[0m[1BCreating selenium-test-hub-and-grid-compose_chrome_2  ... 
+Creating selenium-test-hub-and-grid-compose_firefox_2 ... 
+Creating selenium-test-hub-and-grid-compose_chrome_3  ... 
+[3A[2KCreating selenium-test-hub-and-grid-compose_chrome_2  ... [32mdone[0m[3B[1A[2KCreating selenium-test-hub-and-grid-compose_firefox_2 ... [32mdone[0m[1B[2A[2KCreating selenium-test-hub-and-grid-compose_chrome_3  ... [32mdone[0m[2B+ docker-compose up -d --scale chrome=10 --scale firefox=5
+selenium-hub is up-to-date
+Starting selenium-test-hub-and-grid-compose_chrome_1 ... 
+Starting selenium-test-hub-and-grid-compose_firefox_1 ... 
+Starting selenium-test-hub-and-grid-compose_chrome_2  ... 
+Starting selenium-test-hub-and-grid-compose_firefox_2 ... 
+Starting selenium-test-hub-and-grid-compose_chrome_3  ... 
+[2A[2KStarting selenium-test-hub-and-grid-compose_firefox_1 ... [32mdone[0m[2B[1A[2KStarting selenium-test-hub-and-grid-compose_firefox_2 ... [32mdone[0m[1B[4A[2KStarting selenium-test-hub-and-grid-compose_chrome_2  ... [32mdone[0m[4B[3A[2KStarting selenium-test-hub-and-grid-compose_chrome_3  ... [32mdone[0m[3B[5A[2KStarting selenium-test-hub-and-grid-compose_chrome_1  ... [32mdone[0m[5BCreating selenium-test-hub-and-grid-compose_firefox_3 ... 
+Creating selenium-test-hub-and-grid-compose_firefox_4 ... 
+Creating selenium-test-hub-and-grid-compose_firefox_5 ... 
+Creating selenium-test-hub-and-grid-compose_chrome_4  ... 
+Creating selenium-test-hub-and-grid-compose_chrome_5  ... 
+Creating selenium-test-hub-and-grid-compose_chrome_6  ... 
+Creating selenium-test-hub-and-grid-compose_chrome_7  ... 
+Creating selenium-test-hub-and-grid-compose_chrome_8  ... 
+Creating selenium-test-hub-and-grid-compose_chrome_9  ... 
+Creating selenium-test-hub-and-grid-compose_chrome_10 ... 
+[8A[2KCreating selenium-test-hub-and-grid-compose_firefox_5 ... [32mdone[0m[8B[10A[2KCreating selenium-test-hub-and-grid-compose_firefox_3 ... [32mdone[0m[10B[1A[2KCreating selenium-test-hub-and-grid-compose_chrome_10 ... [32mdone[0m[1B[9A[2KCreating selenium-test-hub-and-grid-compose_firefox_4 ... [32mdone[0m[9B[4A[2KCreating selenium-test-hub-and-grid-compose_chrome_7  ... [32mdone[0m[4B[2A[2KCreating selenium-test-hub-and-grid-compose_chrome_9  ... [32mdone[0m[2B[5A[2KCreating selenium-test-hub-and-grid-compose_chrome_6  ... [32mdone[0m[5B[7A[2KCreating selenium-test-hub-and-grid-compose_chrome_4  ... [32mdone[0m[7B[6A[2KCreating selenium-test-hub-and-grid-compose_chrome_5  ... [32mdone[0m[6B[3A[2KCreating selenium-test-hub-and-grid-compose_chrome_8  ... [32mdone[0m[3B
+[8mha:////4Mj/mMyrpwG+/nelT7PRwKFXLriy5ASDeTURhHThx/y/AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIigUSDqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQFAXH9DvgAAAA==[0m[Pipeline] }
+[8mha:////4AP15YZvD2hNWjECv9tl8BxCLH8X1/4Aq3DQ1sNFyIcpAAAApB+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyk8bCsbJlaDwBJogQ5n8CRFJ5Iq/mHUQzY+UWO/u2ec8XrGOAIwXNrMLBYOwM827SZbFMYbg6yszShXWEkZxiQmVBvTotKCgpWFLVsOKwUdg5igZ1gi238i4bJ1E35xTKd+BQm36EB1S8mJMM6QtzgN1t6iPhz/NXALP3Cep2/6n2DXO/JP++AAAA[0m[Pipeline] // dir
+[8mha:////4JYusV87BWkWBWi1/GT7hTCckZRDbSPVokfQiHZ/qbV0AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiqJAQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrd/lPbNxxce5e+AAAA[0m[Pipeline] }
+[8mha:////4Fce9nFup6g8jN65qpYDG3ytwbjABbegYKYN/9zJ2NyYAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKC6BCiSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nbf2r7Bi+/ICu+AAAA[0m[Pipeline] // stage
+[8mha:////4HSgqQ24W52GhtQv8EfbFR6Kw/SSU0hdgUek5h8I1CKvAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYSDBB2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INn/W1xsEAAAA=[0m[Pipeline] stage
+[8mha:////4MnPo/Whg0LeKqcgR5b+rib6beo97iGWH8uWrWJ5RYDDAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUxIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLDbrb9/Cw+ty4Up8IAAAA=[0m[Pipeline] { (Execute Scripts)
+[8mha:////4IRt9rk9ZTsbfc8Q78vILT1i3oXFoMztIZmDs2glyO19AAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIioERUaS03vMDExjix7oztkFS8iK/xBwKRqNhitbPNPF+wTBGOHC22hjpHqXEYfG+nhQPH7uJ5wJbP2DAl9galGSRrU88oORuYU5SwELAy1HhOjmyGtWjVXVVeka1OOU7fQUDp9A0eUIjJnFXMXxgjbK69Tkw/z18BjCFDud9+ahfettHKdL4AAAA=[0m[Pipeline] isUnix
+[8mha:////4EFQzFfSa3+fhM0q2nbuDKsaj752eRMMBFaNI3ZFSVXdAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIilBJR0VppeIFJjLFj3Tm2g1PxIr7GHwhEomKL1c4283zBOgY4ctBoFfWGYmvQu1HPCzOH/uo4o+ULtkyRncJG5YY7dVqw4aRgSVHCSsBGUes4GtIJtsLKu6ycJF2dU5i/g4DSdAM8oBCzOcmQvjAF2N3GLjL9PH8FMPkEZb3/VO3f9+DRbb4AAAA=[0m[Pipeline] sh
++ mvn clean test '-Dcucumber.options=--tags '\''@UITest and @Smoke'\''' -DexecutionPlatform=GRID_FIREFOX
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ---------< org.example:awsworkshop_test_functional_assurance >----------
+[INFO] Building awsworkshop_test_functional_assurance 1.0-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ awsworkshop_test_functional_assurance ---
+[INFO] Deleting /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/SeleniumGridContainerUsingDockerCompose/RunSeleniumGridContainerUsingDockerCompose/target
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ awsworkshop_test_functional_assurance ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/SeleniumGridContainerUsingDockerCompose/RunSeleniumGridContainerUsingDockerCompose/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ awsworkshop_test_functional_assurance ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ awsworkshop_test_functional_assurance ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 11 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ awsworkshop_test_functional_assurance ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 12 source files to /Users/mohanrajmathavan/.jenkins/workspace/BootCamp/SeleniumGridContainerUsingDockerCompose/RunSeleniumGridContainerUsingDockerCompose/target/test-classes
+[INFO] 
+[INFO] --- maven-surefire-plugin:3.0.0-M4:test (default-test) @ awsworkshop_test_functional_assurance ---
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running runner.TestsRunner
+01:35:29  INFO: runner.TestsRunner - ########### INSIDE BEFORE CLASS ###########
+01:35:29  INFO: stepdefinitions.MasterStepDefs - Starting - E-Shop Application - Create New Account
+Aug 19, 2020 1:35:29 AM org.openqa.selenium.remote.DesiredCapabilities firefox
+INFO: Using `new FirefoxOptions()` is preferred to `DesiredCapabilities.firefox()`
+Aug 19, 2020 1:35:36 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+01:35:36  INFO: stepdefinitions.MasterStepDefs - UI URL Fetched from POM Settings
+01:35:36  INFO: stepdefinitions.MasterStepDefs - ApplicationUrl : http://awswrkshpalb-1570520390.us-west-2.elb.amazonaws.com:3000
+01:35:50  INFO: stepdefinitions.MasterStepDefs - E-Shop Application - Create New Account Status - PASSED
+01:35:50  INFO: stepdefinitions.MasterStepDefs - ######### Count of Passed #########
+01:35:50  INFO: stepdefinitions.MasterStepDefs - 1
+01:35:50  INFO: stepdefinitions.MasterStepDefs - ######### Count of passed #########
+
+1 Scenarios (1 passed)
+3 Steps (3 passed)
+0m22.424s
+
+01:35:51  INFO: runner.TestsRunner - ########### INSIDE AFTER CLASS ###########
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 23.085 s - in runner.TestsRunner
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  28.758 s
+[INFO] Finished at: 2020-08-19T01:35:53+05:30
+[INFO] ------------------------------------------------------------------------
+[8mha:////4Fq9R+3rGISXEoStlX8K//ywmT50GpsZ8rik22Pcc2thAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiBB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nbf2r7BpKm1V++AAAA[0m[Pipeline] }
+[8mha:////4LEcUCbUCutxYt2Csu3iMB+R5lNI3/62oSRQZMsWko/iAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKChKgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrd/lPbN6FFjuO+AAAA[0m[Pipeline] // stage
+[8mha:////4JALBtaczb9dFbjuen4wPyeVZwDvNAW/GNb+YlyRtKsoAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIpQDSIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfLsXZLsPLn/NEL0AAAA=[0m[Pipeline] }
+[8mha:////4PTgoCU0gig7gB7tqxIBsLQz2JDjfo+K9DSuVEeI2Y+jAAAAox+LCAAAAAAAAP9tjTESgjAQRT84FraWHiIUFBaOlW2GxhNEiDGQ2cVkESpP5NW8g4zMWPmr/17zXm+sU8SRo1Otpc5Tqr3qw+Dmp0aO3TXwqFq+qJopcbCqsmPFjT0tWLFYLMtyrDQ2lurAyZMTbHVrHqYIhlxxlji7g0bumzueyPRcFhPlC1PE7jY0ienX+RvA1PeCvNwLsvIDPcPJs70AAAA=[0m[Pipeline] // node
+[8mha:////4Lpm2SvcjUcXntmGHXhMOF8WQOfwC77mr//otS3GVs+qAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKRoEFCVLRWGl5gEmOcWHfBvpBUvIiv8QciIlGx1c4083pjmSKOHJ1qLLWeUuVVF3o3PTVwbK+BB9XwRVVMiYNVpR1Kru1pxpLFYl6WY6GxslQFTp6cYK0b8zBFMOSKs8TJHTRyX9/xRKanspgoXxgjNre+Tky/zt8Axq4T5Lu9INt+AHpknka9AAAA[0m[Pipeline] End of Pipeline
+Finished: SUCCESS

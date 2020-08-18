@@ -1,0 +1,32 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<Tag plugin="workflow-support@3.5">
+  <node class="cps.n.StepAtomNode" plugin="workflow-cps@2.82">
+    <parentIds>
+      <string>12</string>
+    </parentIds>
+    <id>13</id>
+    <descriptorId>org.jenkinsci.plugins.workflow.steps.durable_task.ShellStep</descriptorId>
+  </node>
+  <actions>
+    <cps.a.ArgumentsActionImpl plugin="workflow-cps@2.82">
+      <arguments>
+        <entry>
+          <string>script</string>
+          <string>
+                 docker rm -f $(docker ps -a -q)
+                 docker run --name mythicalmysfitsfrontend -p 3000:3000 -p 8180:8180 --rm -i -t -d karthiknarayanpdec11/mythicalmysfits:latest
+                 docker exec -d mythicalmysfitsfrontend npm start
+                 docker run -d -p 4444:4444 --name selenium-hub selenium/hub
+                 docker run -d --link selenium-hub:hub selenium/node-chrome
+                 docker run -d --link selenium-hub:hub selenium/node-firefox
+             </string>
+        </entry>
+      </arguments>
+      <isUnmodifiedBySanitization>true</isUnmodifiedBySanitization>
+    </cps.a.ArgumentsActionImpl>
+    <wf.a.TimingAction plugin="workflow-api@2.40">
+      <startTime>1597782505758</startTime>
+    </wf.a.TimingAction>
+    <s.a.LogStorageAction/>
+  </actions>
+</Tag>

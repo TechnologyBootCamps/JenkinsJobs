@@ -1,0 +1,15 @@
+framework/APIReusuableLibrary.class
+stepdefinitions/WebEShopStepDefs.class
+pages/ShopLoginPage.class
+runner/TestsRunner.class
+framework/APIReusuableLibrary$SERVICEMETHOD.class
+framework/WebDriverFactory.class
+framework/APIReusuableLibrary$SERVICEFORMAT.class
+framework/APIReusuableLibrary$1.class
+stepdefinitions/MasterStepDefs.class
+pages/ShopMasterPageWeb.class
+pages/ShopProductsPage.class
+stepdefinitions/CukeHooks.class
+pages/ShopAddressPage.class
+stepdefinitions/APIEShopStepDefs.class
+pages/ShopPaymentsPage.class

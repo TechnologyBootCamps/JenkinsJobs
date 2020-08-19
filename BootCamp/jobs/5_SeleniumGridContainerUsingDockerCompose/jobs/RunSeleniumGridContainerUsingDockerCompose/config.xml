@@ -34,15 +34,15 @@
 	    dir(&quot;dockersample\\selenium-test-hub-and-grid-compose&quot;) {
 	        if (isUnix()) {
             sh &quot;&quot;&quot;
+                 docker-compose up -d --scale chrome=2 --scale firefox=1
                  docker-compose up -d --scale chrome=3 --scale firefox=2
-                 docker-compose up -d --scale chrome=5 --scale firefox=3
              &quot;&quot;&quot; 
 	        }
 	        else
 	        {
 	          bat &quot;&quot;&quot;
+                 docker-compose up -d --scale chrome=2 --scale firefox=1
                  docker-compose up -d --scale chrome=3 --scale firefox=2
-                 docker-compose up -d --scale chrome=5 --scale firefox=3
              &quot;&quot;&quot;   
 	        }
     	} 

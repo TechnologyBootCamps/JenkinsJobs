@@ -24,7 +24,7 @@
 	    else
 	    {
 	        bat &quot;&quot;&quot;
-                 docker rm -f \$(docker ps -a -q)
+                 FOR /f &quot;tokens=*&quot; %%i IN (&apos;docker ps -aq&apos;) DO docker stop %%i &amp;&amp; docker rm %%i
                  docker run -d -p 4444:4444 --name selenium-hub selenium/hub
                  docker run -d --link selenium-hub:hub selenium/node-chrome
                  docker run -d --link selenium-hub:hub selenium/node-firefox

@@ -23,7 +23,7 @@ node () {
 	    else
 	    {
 	      bat &quot;&quot;&quot;
-             docker rm -f \$(docker ps -a -q)
+             FOR /f &quot;tokens=*&quot; %%i IN (&apos;docker ps -aq&apos;) DO docker stop %%i &amp;&amp; docker rm %%i
              docker run -d --rm -ti --name zalenium -p 4444:4444 -v /var/run/docker.sock:/var/run/docker.sock -v /tmp/videos:/home/seluser/videos --privileged dosel/zalenium start 
          &quot;&quot;&quot;   
 	    }

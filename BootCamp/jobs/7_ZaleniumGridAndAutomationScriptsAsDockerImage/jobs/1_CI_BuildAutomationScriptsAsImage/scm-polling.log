@@ -1,0 +1,11 @@
+Started on 19 Aug 2020, 19:18:59
+Using strategy: Default
+[poll] Last Built Revision: Revision 45e46054b316bf2d6064f1c2405a4f0db7e604ce (refs/remotes/origin/selenium-test-compose)
+No credentials specified
+ > git --version # timeout=10
+ > git --version # 'git version 2.21.1 (Apple Git-122.3)'
+ > git ls-remote -h -- https://github.com/TechnologyBootCamps/functional-assurance # timeout=10
+Found 2 remote heads on https://github.com/TechnologyBootCamps/functional-assurance
+[poll] Latest remote head revision on refs/heads/selenium-test-compose is: 45e46054b316bf2d6064f1c2405a4f0db7e604ce - already built by 1
+Done. Took 1.2 sec
+No changes

@@ -12,22 +12,25 @@
  	 checkout([$class: &apos;GitSCM&apos;, branches: [[name: &apos;*/selenium-test-compose&apos;]], doGenerateSubmoduleConfigurations: false, extensions: [], submoduleCfg: [], userRemoteConfigs: [[credentialsId: &apos;&apos;, url: &apos;https://github.com/TechnologyBootCamps/functional-assurance&apos;]]])
 	}
 	stage (&apos;Exeucte Selenium-tests Image&apos;) {
-	    dir(&quot;dockersample\\selenium-tests-with-zalenium-compose&quot;) {
+	    
 	        if (isUnix()) {
-                sh &quot;&quot;&quot;
-                docker rm -f \$(docker ps -a -q)
-                docker-compose run --rm selenium-tests
-                &quot;&quot;&quot; 
+	            dir(&quot;dockersample\\selenium-tests-with-zalenium-compose&quot;) {
+                    sh &quot;&quot;&quot;
+                    docker rm -f \$(docker ps -a -q)
+                    docker-compose run --rm selenium-tests
+                    &quot;&quot;&quot; 
+	            }
 	        }
 	        else
              {
                bat &quot;&quot;&quot;
+                cd dockersample
+                cd selenium-tests-with-zalenium-compose
                 FOR /f &quot;tokens=*&quot; %%i IN (&apos;docker ps -aq&apos;) DO docker stop %%i &amp;&amp; docker rm %%i
                 docker-compose run --rm selenium-tests
                 &quot;&quot;&quot;   
              }
 	    }
-	}
 }
 </script>
     <sandbox>true</sandbox>

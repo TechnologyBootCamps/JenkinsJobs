@@ -30,7 +30,11 @@
   <concurrentBuild>false</concurrentBuild>
   <builders>
     <hudson.tasks.Shell>
-      <command>mvn clean test -Dcucumber.options=&quot;--tags &apos;@UITest and @Smoke&apos;&quot; -DexecutionPlatform=&quot;LOCAL_CHROME&quot;</command>
+      <command>docker rm -f $(docker ps -a -q)
+docker run --name mythicalmysfitsfrontend -p 3000:3000 -p 8180:8180 --rm -i -t -d karthiknarayanpdec11/mythicalmysfits:latest
+docker exec -d mythicalmysfitsfrontend npm start
+mvn clean test -Dcucumber.options=&quot;--tags &apos;@UITest and @Smoke&apos;&quot; -DexecutionPlatform=&quot;LOCAL_CHROME&quot; -DapplicationHost=&quot;localhost&quot;
+</command>
     </hudson.tasks.Shell>
   </builders>
   <publishers>

@@ -9,16 +9,19 @@
   <definition class="org.jenkinsci.plugins.workflow.cps.CpsFlowDefinition" plugin="workflow-cps@2.82">
     <script>node () {
 	stage (&apos;Exeucte Image&apos;) {
-	    dir(&quot;dockersample\\java-docker-app&quot;) {
             if (isUnix()) {
-                sh (/docker run java-basic-app/)
+                sh &quot;&quot;&quot; 
+                 docker rm -f \$(docker ps -a -q)
+                 docker run java-basic-app
+                &quot;&quot;&quot;
             }
             else
             {
-               bat (/docker run java-basic-app/) 
+               bat &quot;&quot;&quot;
+                docker run java-basic-app
+               &quot;&quot;&quot;
             }
 	    }
-	}
 }
 
 </script>

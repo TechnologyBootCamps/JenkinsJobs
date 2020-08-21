@@ -7,28 +7,44 @@
     <hudson.plugins.jira.JiraProjectProperty plugin="jira@3.1.1"/>
   </properties>
   <definition class="org.jenkinsci.plugins.workflow.cps.CpsFlowDefinition" plugin="workflow-cps@2.82">
-    <script>timestamps {
-    node () {
-    	stage (&apos;Git Checkout&apos;) {
-     	 checkout([$class: &apos;GitSCM&apos;, branches: [[name: &apos;*/master&apos;]], doGenerateSubmoduleConfigurations: false, extensions: [], submoduleCfg: [], userRemoteConfigs: [[credentialsId: &apos;&apos;, url: &apos;https://github.com/TechnologyBootCamps/functional-assurance&apos;]]])
-    	}
-    	stage (&apos;Execute Scripts&apos;) {
-    	    if (isUnix()) {
+    <script>node () {
+    stage (&apos;Deployed Mythical Mysfits&apos;) {
+            if (isUnix()) {
                 sh &quot;&quot;&quot;
-                mvn clean test -Dcucumber.options=&quot;--tags &apos;@UITest and @Smoke&apos;&quot; -DexecutionPlatform=&quot;LOCAL_CHROME&quot;
-                 &quot;&quot;&quot; 
-    	    }
-    	    else
-    	    {
-    	         bat &quot;&quot;&quot;
-                 mvn clean test -Dcucumber.options=&quot;--tags &apos;@UITest and @Smoke&apos;&quot; -DexecutionPlatform=&quot;LOCAL_CHROME&quot;
-                 &quot;&quot;&quot;  
-    	    }
-    	}
-    	stage (&apos;Publish Results&apos;) {
-    	    publishHTML([allowMissing: false, alwaysLinkToLastBuild: false, keepAll: false, reportDir: &apos;target&apos;, reportFiles: &apos;extent-reports.html&apos;, reportName: &apos;Extent Report&apos;, reportTitles: &apos;&apos;])
-    	}
+                   docker rm -f \$(docker ps -a -q)
+                   docker run --name mythicalmysfitsfrontend -p 3000:3000 -p 8180:8180 --rm -i -t -d karthiknarayanpdec11/mythicalmysfits:latest
+                   docker exec -d mythicalmysfitsfrontend npm start
+               &quot;&quot;&quot;
+            }
+            else
+            {
+               bat &quot;&quot;&quot;
+                   FOR /f &quot;tokens=*&quot; %%i IN (&apos;docker ps -aq&apos;) DO docker stop %%i &amp;&amp; docker rm %%i
+                   docker run --name mythicalmysfitsfrontend -p 3000:3000 -p 8180:8180 --rm -i -t -d karthiknarayanpdec11/mythicalmysfits:latest
+                   docker exec -d mythicalmysfitsfrontend npm start
+               &quot;&quot;&quot;
+            }
     }
+
+	stage (&apos;Git Checkout&apos;) {
+ 	 checkout([$class: &apos;GitSCM&apos;, branches: [[name: &apos;*/master&apos;]], doGenerateSubmoduleConfigurations: false, extensions: [], submoduleCfg: [], userRemoteConfigs: [[credentialsId: &apos;&apos;, url: &apos;https://github.com/TechnologyBootCamps/functional-assurance&apos;]]])
+	}
+	stage (&apos;Execute Scripts&apos;) {
+	    if (isUnix()) {
+            sh &quot;&quot;&quot;
+            mvn clean test -Dcucumber.options=&quot;--tags &apos;@UITest and @Smoke&apos;&quot; -DexecutionPlatform=&quot;LOCAL_CHROME&quot; -DapplicationHost=&quot;localhost&quot;
+             &quot;&quot;&quot; 
+	    }
+	    else
+	    {
+	         bat &quot;&quot;&quot;
+             mvn clean test -Dcucumber.options=&quot;--tags &apos;@UITest and @Smoke&apos;&quot; -DexecutionPlatform=&quot;LOCAL_CHROME&quot; -DapplicationHost=&quot;localhost&quot;
+             &quot;&quot;&quot;  
+	    }
+	}
+	stage (&apos;Publish Results&apos;) {
+	    publishHTML([allowMissing: false, alwaysLinkToLastBuild: false, keepAll: false, reportDir: &apos;target&apos;, reportFiles: &apos;extent-reports.html&apos;, reportName: &apos;Extent Report&apos;, reportTitles: &apos;&apos;])
+	}
 }
 </script>
     <sandbox>true</sandbox>
